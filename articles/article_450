@@ -1,0 +1,24 @@
+{
+    "article": {
+        "id": 450,
+        "date": "2003-04-03",
+        "article_url": "https://www.ostmarkasvenner.no/vestergaard-golfbane.5085230-256978.html",
+        "header": "Vestergård golfbane",
+        "ingress": {
+            "image": {},
+            "text": "vgolf.pdf fra Østmarkas Venner vedrørende varsel om oppstart av planarbeid for Vestegård golfbane.",
+            "pdf_files": {
+                "pdf_1": {
+                    "text": "vgolf.pdf",
+                    "pdf_path": "450_ingress_anchor1.pdf"
+                }
+            }
+        },
+        "author": null,
+        "body": {
+            "sections": {},
+            "attachments": {}
+        },
+        "new_slug": "vestergaard-golfbane"
+    }
+}

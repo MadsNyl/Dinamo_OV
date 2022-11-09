@@ -1,0 +1,39 @@
+{
+    "article": {
+        "id": 358,
+        "date": "2009-04-17",
+        "article_url": "https://www.ostmarkasvenner.no/mer-om-markaloven.5083035-256978.html",
+        "header": "Mer om markaloven",
+        "ingress": {
+            "image": {},
+            "text": null,
+            "pdf_files": {}
+        },
+        "author": "Webmaster",
+        "body": {
+            "sections": {
+                "section_1": {
+                    "image": {},
+                    "text": "Foreløpig referat fra behandlingen i Odelstinget 2. april - Stortinget.\r\nEndelig er seieren vår! Artikkel i Nordstrands Blad.\r\n\n\r\nBedre markalov. Kommentar i Aftenposten.\r\n\n\r\nKunngjøring i Norsk Lovtidend.\r\n",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "Foreløpig referat fra behandlingen i Odelstinget 2. april - <a href='http://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Odelstinget/2008-2009/090402/'>Stortinget</a>.\r\nEndelig er seieren vår! Artikkel i <a href='http://noblad.no/apps/pbcs.dll/article?AID=/20090403/NYHETER/180736526' class='text-red-700'>Nordstrands Blad</a>.\r\n",
+                            "pdf_files": {}
+                        },
+                        "p_2": {
+                            "text": "\r\nBedre markalov. Kommentar i <a href='http://www.aftenposten.no/meninger/kommentatorer/hellberg/article3017744.ece' class='text-red-700'>Aftenposten</a>.\r\n",
+                            "pdf_files": {}
+                        },
+                        "p_3": {
+                            "text": "\r\nKunngjøring i <a href='http://www.lovdata.no/ltavd1/filer/nl-20090605-035.html' class='text-red-700'>Norsk Lovtidend</a>.\r\n",
+                            "pdf_files": {}
+                        }
+                    }
+                }
+            },
+            "attachments": {}
+        },
+        "new_slug": "mer-om-markaloven"
+    }
+}

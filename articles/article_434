@@ -1,0 +1,27 @@
+{
+    "article": {
+        "id": 434,
+        "date": "2004-10-05",
+        "article_url": "https://www.ostmarkasvenner.no/smalvollvn-20.5085196-256978.html",
+        "header": "Smalvollvn. 20",
+        "ingress": {
+            "image": {},
+            "text": "Høringsuttalelse fra Østmarkas Venner vedrørende endret reguleringsplan for Smalvollveien 20.",
+            "pdf_files": {}
+        },
+        "author": null,
+        "body": {
+            "sections": {},
+            "attachments": {
+                "attachment_1": {
+                    "text": "Høringsuttalelse",
+                    "pdf": {
+                        "text": "Høringsuttalelse",
+                        "path": "434_attachments_anchor1.pdf"
+                    }
+                }
+            }
+        },
+        "new_slug": "smalvollvn-20"
+    }
+}

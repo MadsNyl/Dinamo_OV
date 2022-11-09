@@ -1,0 +1,60 @@
+{
+    "article": {
+        "id": 10,
+        "date": "2022-09-13",
+        "article_url": "https://www.ostmarkasvenner.no/-skogbruket-den-stoerste-trusselen-mot-artsmangfold-i-norge.6546236-256978.html",
+        "header": "– Skogbruket – den største trusselen mot artsmangfold i Norge?",
+        "ingress": {
+            "image": {},
+            "text": "– Skogbruksnæringen er noe for seg selv. Ingen andre næringer i landet kan gjennomføre like store naturinngrep uten å melde ifra eller søke om lov, skriver tidsskriftet Apollon i sin nyeste utgave.",
+            "pdf_files": {}
+        },
+        "author": "Bjarne Røsjø",
+        "body": {
+            "sections": {
+                "section_1": {
+                    "image": {
+                        "url": "https://www.ostmarkasvenner.no/getfile.php/5065714.2128.qlptsiiqlktu7j/1024x768/Ole+Kristian+Fauchald.jpg",
+                        "text": "Ole Kristian Fauchald deltar i et tverrfaglig prosjekt om bærekraftig skogbruk. Foto: Fridtjof Nansens Institutt.",
+                        "image_path": "10_section1.jpg"
+                    },
+                    "text": "Ole Kristian Fauchald deltar i et tverrfaglig prosjekt om bærekraftig skogbruk. Foto: Fridtjof Nansens Institutt.Forskningsmagasinet Apollon, som presenterer siste nytt fra forskningen ved Universitetet i Oslo, har en meget interessant artikkel om skogbruket i sitt siste nummer. Redaktøren Trine Nickelsen har intervjuet Ole Kristian Fauchald ved Det juridiske fakultet på Universitetet i Oslo og Fridtjof Nansens institutt. Han deltar i et tverrfaglig prosjekt om bærekraftig skogbruk – ECOREAL – og kommer med en rekke kritiske kommentarer til dagens skogbrukspolitikk.\n– Andre næringer i Norge er mye sterkere regulert enn det skogbruket er, fastslår professor Fauchald. –  Og ikke minst: Kravet til åpenhet og medvirkning er langt strengere for andre virksomheter.\nSkogbrukslovens hovedprinsipp er «frihet under ansvar». Fauchald påpeker blant annet at skogeierne kan holde på ganske fritt, mens andre næringer er mye strengere regulert.\nOm norske skogeiere derimot hadde måttet søke tillatelse, mener han det er åpenbart at virkningene av å flatehogge måtte på bordet. Skog er ikke bare trær, men et samspill mellom tusenvis av arter.\n ",
+                    "header": null,
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "Forskningsmagasinet Apollon, som presenterer siste nytt fra forskningen ved Universitetet i Oslo, har en meget interessant artikkel om skogbruket i sitt siste nummer. Redaktøren Trine Nickelsen har intervjuet Ole Kristian Fauchald ved Det juridiske fakultet på Universitetet i Oslo og Fridtjof Nansens institutt. Han deltar i et tverrfaglig prosjekt om bærekraftig skogbruk – ECOREAL – og kommer med en rekke kritiske kommentarer til dagens skogbrukspolitikk.",
+                            "pdf_files": {}
+                        },
+                        "p_2": {
+                            "text": "– Andre næringer i Norge er mye sterkere regulert enn det skogbruket er, fastslår professor Fauchald. – Og ikke minst: Kravet til åpenhet og medvirkning er langt strengere for andre virksomheter.",
+                            "pdf_files": {}
+                        },
+                        "p_3": {
+                            "text": "Skogbrukslovens hovedprinsipp er «frihet under ansvar». Fauchald påpeker blant annet at skogeierne kan holde på ganske fritt, mens andre næringer er mye strengere regulert.",
+                            "pdf_files": {}
+                        },
+                        "p_4": {
+                            "text": "Om norske skogeiere derimot hadde måttet søke tillatelse, mener han det er åpenbart at virkningene av å flatehogge måtte på bordet. Skog er ikke bare trær, men et samspill mellom tusenvis av arter.",
+                            "pdf_files": {}
+                        }
+                    },
+                    "lists": {}
+                },
+                "section_2": {
+                    "image": {},
+                    "text": "Les hele artikkelen på Apollons nettside: Trine Nickelsen: Skogbruket – den største trusselen mot artsmangfold i Norge? Publisert i Apollon 12. september 2022\n ",
+                    "header": "Les hele artikkelen på Apollons nettside:",
+                    "paragraphs": {
+                        "p_1": {
+                            "text": "Trine Nickelsen: <a href='https://www.apollon.uio.no/artikler/2022/3_planter_skogbruk'>Skogbruket – den største trusselen mot artsmangfold i Norge?</a> Publisert i Apollon 12. september 2022",
+                            "pdf_files": {}
+                        }
+                    },
+                    "lists": {}
+                }
+            },
+            "attachments": {}
+        },
+        "new_slug": "-skogbruket-den-storste-trusselen-mot-artsmangfold-i-norge"
+    }
+}

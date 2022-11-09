@@ -1,0 +1,27 @@
+{
+    "article": {
+        "id": 386,
+        "date": "2007-06-07",
+        "article_url": "https://www.ostmarkasvenner.no/skogbruket-maa-omfattes-av-markaloven.5084488-256978.html",
+        "header": "Skogbruket må omfattes av markaloven",
+        "ingress": {
+            "image": {},
+            "text": "Uttalelse fra markaorganisasjonene i forbindelse med prosessen med å lage en egen lov for marka. ",
+            "pdf_files": {}
+        },
+        "author": "Webmaster",
+        "body": {
+            "sections": {},
+            "attachments": {
+                "attachment_1": {
+                    "text": "Les uttalelsen sendt av Oslo og Omland Friluftsråd.",
+                    "pdf": {
+                        "text": "Les uttalelsen sendt av Oslo og Omland Friluftsråd.",
+                        "path": "386_attachments_anchor1.pdf"
+                    }
+                }
+            }
+        },
+        "new_slug": "skogbruket-maa-omfattes-av-markaloven"
+    }
+}

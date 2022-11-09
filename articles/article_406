@@ -1,0 +1,27 @@
+{
+    "article": {
+        "id": 406,
+        "date": "2006-02-28",
+        "article_url": "https://www.ostmarkasvenner.no/lovfest-markagrensa.5085156-256978.html",
+        "header": "Lovfest markagrensa",
+        "ingress": {
+            "image": {},
+            "text": "Oslo og omegns friluftsorganisasjoner møtte miljøvernminister Helen Bjørnøy mandag. De krever at markagrensa lovfestes.",
+            "pdf_files": {}
+        },
+        "author": "Webmaster",
+        "body": {
+            "sections": {},
+            "attachments": {
+                "attachment_1": {
+                    "text": "Les pressemeldingen fra ØV",
+                    "pdf": {
+                        "text": "Les pressemeldingen fra ØV",
+                        "path": "406_attachments_anchor1.pdf"
+                    }
+                }
+            }
+        },
+        "new_slug": "lovfest-markagrensa"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "article": {
+        "id": 443,
+        "date": "2004-04-05",
+        "article_url": "https://www.ostmarkasvenner.no/oslo-kommunes-skoger.5085220-256978.html",
+        "header": "Oslo kommunes skoger",
+        "ingress": {
+            "image": {},
+            "text": "Høringsuttalelse fra Østmarkas Venner angående Mål og retningslinjer for forvaltning og drift av Oslo kommunes skoger.",
+            "pdf_files": {}
+        },
+        "author": null,
+        "body": {
+            "sections": {},
+            "attachments": {
+                "attachment_1": {
+                    "text": "Høringsuttalelse",
+                    "pdf": {
+                        "text": "Høringsuttalelse",
+                        "path": "443_attachments_anchor1.pdf"
+                    }
+                }
+            }
+        },
+        "new_slug": "oslo-kommunes-skoger"
+    }
+}

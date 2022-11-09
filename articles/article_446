@@ -1,0 +1,27 @@
+{
+    "article": {
+        "id": 446,
+        "date": "2003-10-22",
+        "article_url": "https://www.ostmarkasvenner.no/soerli-gaard.5085223-256978.html",
+        "header": "Sørli gård",
+        "ingress": {
+            "image": {},
+            "text": "Østmarkas Venner har sendt brev til Oslo kommune v/Friluftsetaten der vi foreslår at Sørli gård blir tatt i bruk som friluftsskole for barn og unge.",
+            "pdf_files": {}
+        },
+        "author": null,
+        "body": {
+            "sections": {},
+            "attachments": {
+                "attachment_1": {
+                    "text": "Les brevet her",
+                    "pdf": {
+                        "text": "Les brevet her",
+                        "path": "446_attachments_anchor1.pdf"
+                    }
+                }
+            }
+        },
+        "new_slug": "sorli-gaard"
+    }
+}
