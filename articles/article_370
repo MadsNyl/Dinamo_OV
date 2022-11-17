@@ -14,19 +14,19 @@
             "sections": {},
             "attachments": {
                 "attachment_1": {
-                    "text": "<a href='http://www.dagsavisen.no/innenriks/article375400.ece' class='text-red-700'>Artikkel 1 i Dagsavisen</a>",
+                    "text": " <a href='http://www.dagsavisen.no/innenriks/article375400.ece' class='text-red-700'>Artikkel 1 i Dagsavisen</a>",
                     "pdf": {}
                 },
                 "attachment_2": {
-                    "text": "<a href='http://www.dagsavisen.no/innenriks/article375602.ece' class='text-red-700'>Artikkel 2 i Dagsavisen</a>",
+                    "text": " <a href='http://www.dagsavisen.no/innenriks/article375602.ece' class='text-red-700'>Artikkel 2 i Dagsavisen</a>",
                     "pdf": {}
                 },
                 "attachment_3": {
-                    "text": "<a href='http://www.dagsavisen.no/innenriks/article375814.ece' class='text-red-700'>Artikkel 3 i Dagsavisen</a>",
+                    "text": " <a href='http://www.dagsavisen.no/innenriks/article375814.ece' class='text-red-700'>Artikkel 3 i Dagsavisen</a>",
                     "pdf": {}
                 },
                 "attachment_4": {
-                    "text": "<a href='http://www.dagsavisen.no/innenriks/article376052.ece' class='text-red-700'>Artikkel 4 i Dagsavisen</a>",
+                    "text": " <a href='http://www.dagsavisen.no/innenriks/article376052.ece' class='text-red-700'>Artikkel 4 i Dagsavisen</a>",
                     "pdf": {}
                 }
             }

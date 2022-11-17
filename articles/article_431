@@ -14,7 +14,7 @@
             "sections": {},
             "attachments": {
                 "attachment_1": {
-                    "text": "<a href='http://www.nrk.no/nyheter/distrikt/nrk_ostlandssendingen/4161588.html' class='text-red-700'>Les mer hos NRK</a>",
+                    "text": " <a href='http://www.nrk.no/nyheter/distrikt/nrk_ostlandssendingen/4161588.html' class='text-red-700'>Les mer hos NRK</a>",
                     "pdf": {}
                 }
             }

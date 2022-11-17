@@ -10,7 +10,8 @@
             "pdf_files": {
                 "pdf_1": {
                     "text": "lese her",
-                    "pdf_path": "435_ingress_anchor1.pdf"
+                    "local_pdf_path": "435_ingress_anchor1.pdf",
+                    "pdf_path": "https://www.ostmarkasvenner.nogetfile.php/2023010.2128.uqyvrbrsaw/kommunedelplan.pdf"
                 }
             }
         },

@@ -22,7 +22,7 @@
                     "header": null,
                     "paragraphs": {
                         "p_1": {
-                            "text": "Østmarkas Venner (ØV) foretok høsten 2020 en grundig befaring i et område på om lag fem kvadratkilometer omkring Eriksvann og øst for Sandbakken. – Dette området er så flott at det må bli den vestre delen av en fremtidig nasjonalpark, konstaterte ØV i en <a href='https://www.ostmarkasvenner.no/ostmarka-maa-bli-nasjonalpark-og-vernes-for-friluftslivet'>høringsuttalelse til Statsforvalteren i Oslo og Viken</a>.",
+                            "text": "Østmarkas Venner (ØV) foretok høsten 2020 en grundig befaring i et område på om lag fem kvadratkilometer omkring Eriksvann og øst for Sandbakken. – Dette området er så flott at det må bli den vestre delen av en fremtidig nasjonalpark, konstaterte ØV i en  <a href='https://www.ostmarkasvenner.no/ostmarka-maa-bli-nasjonalpark-og-vernes-for-friluftslivet'>høringsuttalelse til Statsforvalteren i Oslo og Viken</a>.",
                             "pdf_files": {}
                         },
                         "p_2": {
@@ -46,7 +46,7 @@
                             "pdf_files": {}
                         },
                         "p_2": {
-                            "text": "Området ligger helt inntil det populære serveringsstedet <a href='https://sandbakken-sportsstue.no/'>Sandbakken</a>, hvor det går både stier og skiløyper i flere retninger. For friluftsfolket tilbyr området mange turalternativer til alle årstider, både på merket og umerket sti, og i helt naturlig terreng.",
+                            "text": "Området ligger helt inntil det populære serveringsstedet  <a href='https://sandbakken-sportsstue.no/'>Sandbakken</a>, hvor det går både stier og skiløyper i flere retninger. For friluftsfolket tilbyr området mange turalternativer til alle årstider, både på merket og umerket sti, og i helt naturlig terreng.",
                             "pdf_files": {}
                         },
                         "p_3": {
@@ -54,7 +54,7 @@
                             "pdf_files": {}
                         },
                         "p_4": {
-                            "text": "ØV leverte i desember 2020 en omfattende høringsuttalelse til Fylkesmannen (nå Statsforvalteren) i Oslo og Viken. Uttalelsen bygde på grundige befaringer og inneholder argumenter for en nasjonalpark og andre verneformer i Østmarka. Du kan lese mer om området Sandbakken-Eriksvann via <a href='https://www.ostmarkasvenner.no/getfile.php/4789405.2128.zm77mbplp7qjbb/201215_Vedlegg-Delomr%C3%A5de+1+Sandbakken+-+Eriksvann+mellom+kraftlinja+og+Spinneren.pdf' class='text-inidigo-700'>denne linken</a>. Her finner du bilder, link til kart over området og informasjon om verdifulle naturtyper.",
+                            "text": "ØV leverte i desember 2020 en omfattende høringsuttalelse til Fylkesmannen (nå Statsforvalteren) i Oslo og Viken. Uttalelsen bygde på grundige befaringer og inneholder argumenter for en nasjonalpark og andre verneformer i Østmarka. Du kan lese mer om området Sandbakken-Eriksvann via  <a href='https://www.ostmarkasvenner.no/getfile.php/4789405.2128.zm77mbplp7qjbb/201215_Vedlegg-Delomr%C3%A5de+1+Sandbakken+-+Eriksvann+mellom+kraftlinja+og+Spinneren.pdf' class='text-inidigo-700'>denne linken</a>. Her finner du bilder, link til kart over området og informasjon om verdifulle naturtyper.",
                             "pdf_files": {}
                         },
                         "p_5": {
@@ -70,11 +70,11 @@
                     "header": "Mer informasjon",
                     "paragraphs": {
                         "p_1": {
-                            "text": "ØVs høringsuttalelse: <a href='https://www.ostmarkasvenner.no/ostmarka-maa-bli-nasjonalpark-og-vernes-for-friluftslivet'>Østmarka må bli nasjonalpark og vernes for friluftslivet.</a> Publisert 17/12 2020",
+                            "text": "ØVs høringsuttalelse:  <a href='https://www.ostmarkasvenner.no/ostmarka-maa-bli-nasjonalpark-og-vernes-for-friluftslivet'>Østmarka må bli nasjonalpark og vernes for friluftslivet.</a> Publisert 17/12 2020",
                             "pdf_files": {}
                         },
                         "p_2": {
-                            "text": "Rapport fra NINA: <a href='https://www.ostmarkasvenner.no/-ostmarka-omraadet-oppfyller-kriteriene-for-en-nasjonalpark'>– Østmarka-området oppfyller kriteriene for en nasjonalpark</a>. Publisert 5/2 2021",
+                            "text": "Rapport fra NINA:  <a href='https://www.ostmarkasvenner.no/-ostmarka-omraadet-oppfyller-kriteriene-for-en-nasjonalpark'>– Østmarka-området oppfyller kriteriene for en nasjonalpark</a>. Publisert 5/2 2021",
                             "pdf_files": {}
                         }
                     },
@@ -83,6 +83,6 @@
             },
             "attachments": {}
         },
-        "new_slug": "-et-variert-landskap-med-15-verdifulle-naturtyper"
+        "new_slug": "et-variert-landskap-med-15-verdifulle-naturtyper"
     }
 }

@@ -127,7 +127,8 @@
                             "pdf_files": {
                                 "pdf_1": {
                                     "text": "høringsuttalelsen her (link)",
-                                    "pdf_path": "133_section5_paragraph1_anchor1.pdf"
+                                    "local_pdf_path": "133_section5_paragraph1_anchor1.pdf",
+                                    "pdf_path": "https://www.ostmarkasvenner.no/getfile.php/3977012.2128.mlasuqnwbijlzp/171023_%C3%98V+Markaforskrift+H%C3%B8ringsuttalelse.pdf"
                                 }
                             }
                         }
@@ -137,6 +138,6 @@
             },
             "attachments": {}
         },
-        "new_slug": "-markaforskriften-maa-endres-og-sendes-paa-ny-horing"
+        "new_slug": "markaforskriften-maa-endres-og-sendes-paa-ny-horing"
     }
 }

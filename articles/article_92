@@ -266,7 +266,7 @@
                     "header": "Mer informasjon:",
                     "paragraphs": {
                         "p_1": {
-                            "text": "Fylkesmannen i Oslo og Viken: <a href='https://www.fylkesmannen.no/oslo-og-viken/miljo-og-klima/nyheter---miljo-og-klima/2020/oppdrag-om-lage-verneforslag/'>Oppdrag om å lage verneforslag.</a> Publisert 24. februar 2020.",
+                            "text": "Fylkesmannen i Oslo og Viken:  <a href='https://www.fylkesmannen.no/oslo-og-viken/miljo-og-klima/nyheter---miljo-og-klima/2020/oppdrag-om-lage-verneforslag/'>Oppdrag om å lage verneforslag.</a> Publisert 24. februar 2020.",
                             "pdf_files": {}
                         }
                     },
@@ -275,6 +275,6 @@
             },
             "attachments": {}
         },
-        "new_slug": "-alle-skal-faa-si-sin-mening-om-nasjonalparken"
+        "new_slug": "alle-skal-faa-si-sin-mening-om-nasjonalparken"
     }
 }

@@ -26,7 +26,8 @@
                             "pdf_files": {
                                 "pdf_1": {
                                     "text": "sykkelvettreglene",
-                                    "pdf_path": "233_section1_paragraph1_anchor1.pdf"
+                                    "local_pdf_path": "233_section1_paragraph1_anchor1.pdf",
+                                    "pdf_path": "https://www.ostmarkasvenner.no/getfile.php/2698086.2128.wpecsdqatq/sykkelhueflyer.pdf"
                                 }
                             }
                         }
@@ -143,7 +144,7 @@
                             "pdf_files": {}
                         },
                         "p_2": {
-                            "text": "Rune Høydahl, mob: 92 03 53 75, e-post: <a href='mailto:rune@sykkel.com' class='text-red-700'>rune@sykkel.com</a>",
+                            "text": "Rune Høydahl, mob: 92 03 53 75, e-post:  <a href='mailto:rune@sykkel.com' class='text-red-700'>rune@sykkel.com</a>",
                             "pdf_files": {}
                         }
                     },
@@ -155,7 +156,7 @@
                     "header": "Kampanjens pressekontakt:",
                     "paragraphs": {
                         "p_1": {
-                            "text": "Johan Hval Oslo og Omland Friluftsrådmob: 46 29 96 64e-post: <a href='mailto:johanoof@online.no' class='text-red-700'>johanoof@online.no</a>",
+                            "text": "Johan Hval Oslo og Omland Friluftsrådmob: 46 29 96 64e-post:  <a href='mailto:johanoof@online.no' class='text-red-700'>johanoof@online.no</a>",
                             "pdf_files": {}
                         }
                     },

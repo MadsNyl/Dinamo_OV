@@ -42,7 +42,7 @@
                             "pdf_files": {}
                         },
                         "p_2": {
-                            "text": "I førstningen var det mest borgerskapet som drev med friluftsliv og gikk på tur, men mot slutten av 1800-tallet kom en utvikling mot ordnet arbeidstid og mer fritid også for resten av befolkningen.<a href='https://www.oslobyleksikon.no/side/Friluftsklubben'>Friluftsklubben</a>startet sitt arbeid i 1923 og startet med skilting av sommerstier i Østmarka i 1925 – flere år før slik merking ble gjort i feks. Nordmarka.",
+                            "text": "I førstningen var det mest borgerskapet som drev med friluftsliv og gikk på tur, men mot slutten av 1800-tallet kom en utvikling mot ordnet arbeidstid og mer fritid også for resten av befolkningen. <a href='https://www.oslobyleksikon.no/side/Friluftsklubben'>Friluftsklubben</a>startet sitt arbeid i 1923 og startet med skilting av sommerstier i Østmarka i 1925 – flere år før slik merking ble gjort i feks. Nordmarka.",
                             "pdf_files": {}
                         }
                     },
@@ -74,7 +74,7 @@
                             "pdf_files": {}
                         },
                         "p_2": {
-                            "text": "Rapporten til Byantikvaren inneholder også et<a href='https://www.google.com/maps/d/viewer?mid=1IyRbHX1Dk_MPMhAtmrhFuyUZjoy-UJGo&ll=59.85810192140075%2C10.972386961326078&z=10'>nettbasert kart som viser lokaliseringen av kulturminner</a>som er omtalt. På den nettsiden ser du også en tegnforklaring for de ulike symbolene som er brukt.",
+                            "text": "Rapporten til Byantikvaren inneholder også et <a href='https://www.google.com/maps/d/viewer?mid=1IyRbHX1Dk_MPMhAtmrhFuyUZjoy-UJGo&ll=59.85810192140075%2C10.972386961326078&z=10'>nettbasert kart som viser lokaliseringen av kulturminner</a>som er omtalt. På den nettsiden ser du også en tegnforklaring for de ulike symbolene som er brukt.",
                             "pdf_files": {}
                         }
                     },
@@ -210,20 +210,21 @@
                             "pdf_files": {
                                 "pdf_1": {
                                     "text": "Kulturminner i Østmarka nasjonalpark",
-                                    "pdf_path": "60_section12_paragraph1_anchor1.pdf"
+                                    "local_pdf_path": "60_section12_paragraph1_anchor1.pdf",
+                                    "pdf_path": "https://www.ostmarkasvenner.no/getfile.php/4855551.2128.nawtl7bkippbpt/Kulturminner+i+%C3%98stmarka+nasjonalpark.pdf"
                                 }
                             }
                         },
                         "p_2": {
-                            "text": "<a href='https://www.ostmarkasvenner.no/art'>ØVs samleside med artikler om nasjonalparken</a>",
+                            "text": " <a href='https://www.ostmarkasvenner.no/art'>ØVs samleside med artikler om nasjonalparken</a>",
                             "pdf_files": {}
                         },
                         "p_3": {
-                            "text": "<a href='https://www.ostmarkasvenner.no/ostmarka-maa-bli-nasjonalpark-og-vernes-for-friluftslivet'>Østmarka må bli nasjonalpark og vernes for friluftslivet.</a>ØVs høringsuttalelse til Statsforvalteren:Publisert 17/12 2020",
+                            "text": " <a href='https://www.ostmarkasvenner.no/ostmarka-maa-bli-nasjonalpark-og-vernes-for-friluftslivet'>Østmarka må bli nasjonalpark og vernes for friluftslivet.</a>ØVs høringsuttalelse til Statsforvalteren:Publisert 17/12 2020",
                             "pdf_files": {}
                         },
                         "p_4": {
-                            "text": "<a href='https://www.ostmarkasvenner.no/ostmarka-har-en-overraskende-rik-moseflora'>Østmarka har en overraskende rik moseflora</a>. Publisert 18. mai 2021",
+                            "text": " <a href='https://www.ostmarkasvenner.no/ostmarka-har-en-overraskende-rik-moseflora'>Østmarka har en overraskende rik moseflora</a>. Publisert 18. mai 2021",
                             "pdf_files": {}
                         }
                     },

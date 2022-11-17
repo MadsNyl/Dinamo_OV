@@ -46,7 +46,7 @@
                     "header": "Les hele artikkelen på Apollons nettside:",
                     "paragraphs": {
                         "p_1": {
-                            "text": "Trine Nickelsen: <a href='https://www.apollon.uio.no/artikler/2022/3_planter_skogbruk'>Skogbruket – den største trusselen mot artsmangfold i Norge?</a> Publisert i Apollon 12. september 2022",
+                            "text": "Trine Nickelsen:  <a href='https://www.apollon.uio.no/artikler/2022/3_planter_skogbruk'>Skogbruket – den største trusselen mot artsmangfold i Norge?</a> Publisert i Apollon 12. september 2022",
                             "pdf_files": {}
                         }
                     },
@@ -55,6 +55,6 @@
             },
             "attachments": {}
         },
-        "new_slug": "-skogbruket-den-storste-trusselen-mot-artsmangfold-i-norge"
+        "new_slug": "skogbruket-den-storste-trusselen-mot-artsmangfold-i-norge"
     }
 }

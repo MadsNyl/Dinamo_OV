@@ -78,7 +78,7 @@
                     "header": null,
                     "paragraphs": {
                         "p_1": {
-                            "text": "<a href='http://www.forskning.no/artikler/2013/desember/376903' class='text-red-700'>Les hele artikkelen på forskning.no</a>",
+                            "text": " <a href='http://www.forskning.no/artikler/2013/desember/376903' class='text-red-700'>Les hele artikkelen på forskning.no</a>",
                             "pdf_files": {}
                         }
                     },

@@ -14,7 +14,7 @@
             "sections": {},
             "attachments": {
                 "attachment_1": {
-                    "text": "<a href='http://noblad.no/apps/pbcs.dll/article?AID=/20090117/NYHETER/225354058/1196' class='text-red-700'>Artikkel på noblad.no</a>",
+                    "text": " <a href='http://noblad.no/apps/pbcs.dll/article?AID=/20090117/NYHETER/225354058/1196' class='text-red-700'>Artikkel på noblad.no</a>",
                     "pdf": {}
                 }
             }

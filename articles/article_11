@@ -114,11 +114,11 @@
                     "header": "Mer informasjon",
                     "paragraphs": {
                         "p_1": {
-                            "text": "<a href='https://www.ostmarkasvenner.no/regjeringen-vil-ha-stor-og-kortreist-nasjonalpark-i-ostmarka'>Regjeringen vil ha stor og kortreist nasjonalpark i Østmarka</a>",
+                            "text": " <a href='https://www.ostmarkasvenner.no/regjeringen-vil-ha-stor-og-kortreist-nasjonalpark-i-ostmarka'>Regjeringen vil ha stor og kortreist nasjonalpark i Østmarka</a>",
                             "pdf_files": {}
                         },
                         "p_2": {
-                            "text": "<a href='https://www.ostmarkasvenner.no/-verneverdiene-rundt-losbys-skogsbilvei-maa-kartlegges-ordentlig'>– Verneverdiene rundt Losbys planlagte skogsbilvei må kartlegges ordentlig</a>",
+                            "text": " <a href='https://www.ostmarkasvenner.no/-verneverdiene-rundt-losbys-skogsbilvei-maa-kartlegges-ordentlig'>– Verneverdiene rundt Losbys planlagte skogsbilvei må kartlegges ordentlig</a>",
                             "pdf_files": {}
                         }
                     },

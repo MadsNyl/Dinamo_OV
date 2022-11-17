@@ -25,7 +25,7 @@
             },
             "attachments": {
                 "attachment_1": {
-                    "text": "<a href='http://noblad.no/apps/pbcs.dll/article?AID=/20080613/NYHETER/117829411' class='text-red-700'>Les artikkelen i noblad.no</a>",
+                    "text": " <a href='http://noblad.no/apps/pbcs.dll/article?AID=/20080613/NYHETER/117829411' class='text-red-700'>Les artikkelen i noblad.no</a>",
                     "pdf": {}
                 }
             }

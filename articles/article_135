@@ -114,7 +114,8 @@
                             "pdf_files": {
                                 "pdf_1": {
                                     "text": "ØVs høringsuttalelse (link)",
-                                    "pdf_path": "135_section6_paragraph1_anchor1.pdf"
+                                    "local_pdf_path": "135_section6_paragraph1_anchor1.pdf",
+                                    "pdf_path": "https://www.ostmarkasvenner.no/getfile.php/3954950.2128.wlsmbi7piwwjju/171001_%C3%98V+Gr%C3%B8nmo+H%C3%B8ringsuttalelse.pdf"
                                 }
                             }
                         },
@@ -123,7 +124,8 @@
                             "pdf_files": {
                                 "pdf_1": {
                                     "text": "Nytt Liv til Grønmo",
-                                    "pdf_path": "135_section6_paragraph2_anchor1.pdf"
+                                    "local_pdf_path": "135_section6_paragraph2_anchor1.pdf",
+                                    "pdf_path": "https://www.ostmarkasvenner.no/getfile.php/3954951.2128.sq7btsutzmbmuq/Nytt+liv+til+Gr%C3%B8nmo+fra+EBY.pdf"
                                 }
                             }
                         }
@@ -133,6 +135,6 @@
             },
             "attachments": {}
         },
-        "new_slug": "-gronmo-kan-bli-et-flott-friomraade-for-folk-flest"
+        "new_slug": "gronmo-kan-bli-et-flott-friomraade-for-folk-flest"
     }
 }

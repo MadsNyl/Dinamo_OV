@@ -14,7 +14,7 @@
             "sections": {},
             "attachments": {
                 "attachment_1": {
-                    "text": "<a href='http://www.noblad.no/apps/pbcs.dll/article?AID=2006110090010' class='text-red-700'>Les mer i Nordstrand Blad</a>",
+                    "text": " <a href='http://www.noblad.no/apps/pbcs.dll/article?AID=2006110090010' class='text-red-700'>Les mer i Nordstrand Blad</a>",
                     "pdf": {}
                 }
             }

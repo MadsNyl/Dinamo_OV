@@ -75,15 +75,15 @@
                             "pdf_files": {}
                         },
                         "p_2": {
-                            "text": "<a href='http://www.ostmarkasvenner.no/bli-m'>Medlemskap i Østmarkas Venner</a>",
+                            "text": " <a href='http://www.ostmarkasvenner.no/bli-m'>Medlemskap i Østmarkas Venner</a>",
                             "pdf_files": {}
                         },
                         "p_3": {
-                            "text": "<a href='http://www.lillomarkasvenner.no/diverse/bli_medlem.shtml'>Medlemskap i Lillomarkas Venner</a>",
+                            "text": " <a href='http://www.lillomarkasvenner.no/diverse/bli_medlem.shtml'>Medlemskap i Lillomarkas Venner</a>",
                             "pdf_files": {}
                         },
                         "p_4": {
-                            "text": "<a href='http://noa.no/medlem/'>Medlemskap i Naturvernforbundet (nasjonalt, fylke og lokalt)</a>(kampanjepris akkurat nå)",
+                            "text": " <a href='http://noa.no/medlem/'>Medlemskap i Naturvernforbundet (nasjonalt, fylke og lokalt)</a>(kampanjepris akkurat nå)",
                             "pdf_files": {}
                         }
                     },

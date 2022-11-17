@@ -46,12 +46,13 @@
                             "pdf_files": {
                                 "pdf_1": {
                                     "text": "her",
-                                    "pdf_path": "263_section2_paragraph2_anchor1.pdf"
+                                    "local_pdf_path": "263_section2_paragraph2_anchor1.pdf",
+                                    "pdf_path": "https://www.ostmarkasvenner.nohttp://www.fylkesmannen.no/Documents/Dokument%20FMOA/Milj%C3%B8%20og%20klima/Marka/Fylkesmannens%20tilr%C3%A5dning_16052013.pdf"
                                 }
                             }
                         },
                         "p_3": {
-                            "text": "Du kan lese mer om saken hos<a href='http://www.fylkesmannen.no/Oslo-og-Akershus/Miljo-og-klima/Nyheter/Landets-forste-vern-av-friluftslivsomrader/' class='text-red-700'>fylkesmannen</a>.",
+                            "text": "Du kan lese mer om saken hos <a href='http://www.fylkesmannen.no/Oslo-og-Akershus/Miljo-og-klima/Nyheter/Landets-forste-vern-av-friluftslivsomrader/' class='text-red-700'>fylkesmannen</a>.",
                             "pdf_files": {}
                         }
                     },

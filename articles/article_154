@@ -78,11 +78,11 @@
                     "header": "Kontakt:",
                     "paragraphs": {
                         "p_1": {
-                            "text": "Sigmund Hågvar.Tlf.917 14 510.Epost: <a href='mailto:sigmund.hagvar@nmbu.no' class='text-red-700'>sigmund.hagvar@nmbu.no</a>",
+                            "text": "Sigmund Hågvar.Tlf.917 14 510.Epost:  <a href='mailto:sigmund.hagvar@nmbu.no' class='text-red-700'>sigmund.hagvar@nmbu.no</a>",
                             "pdf_files": {}
                         },
                         "p_2": {
-                            "text": "Helga Gunnarsdóttir.Tlf. 959 92 349.Epost:<a href='http://helga@ostmarkasvenner.no' class='text-red-700'>helga@ostmarkasvenner.no</a>",
+                            "text": "Helga Gunnarsdóttir.Tlf. 959 92 349.Epost: <a href='http://helga@ostmarkasvenner.no' class='text-red-700'>helga@ostmarkasvenner.no</a>",
                             "pdf_files": {}
                         }
                     },

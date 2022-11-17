@@ -34,7 +34,7 @@
                     "header": "– Endelig, sier Elvestuen",
                     "paragraphs": {
                         "p_1": {
-                            "text": "– Endelig kan vi få nasjonalpark nær Oslo. Jeg foreslo i sin tid at det burde etableres en nasjonalpark i Østmarka. Nå vil jeg gå videre med dette arbeidet, med bakgrunn i Miljødirektoratets anbefaling. Østmarka har store naturverdier. Vi er nå et skritt nærmere en nasjonalpark, sier klima- og miljøminister Ola Elvestuen <a href='https://www.regjeringen.no/no/aktuelt/ostmarka/id2632364/'>i en pressemelding</a> fra departementet.",
+                            "text": "– Endelig kan vi få nasjonalpark nær Oslo. Jeg foreslo i sin tid at det burde etableres en nasjonalpark i Østmarka. Nå vil jeg gå videre med dette arbeidet, med bakgrunn i Miljødirektoratets anbefaling. Østmarka har store naturverdier. Vi er nå et skritt nærmere en nasjonalpark, sier klima- og miljøminister Ola Elvestuen  <a href='https://www.regjeringen.no/no/aktuelt/ostmarka/id2632364/'>i en pressemelding</a> fra departementet.",
                             "pdf_files": {}
                         },
                         "p_2": {
@@ -86,7 +86,7 @@
                             "pdf_files": {}
                         },
                         "p_3": {
-                            "text": "I dag har Fastlands-Norge <a href='https://no.wikipedia.org/wiki/Liste_over_nasjonalparker_i_Norge'>40 nasjonalparker</a>, men ingen av dem ligger i et lavereliggende skogsområde på Østlandet.",
+                            "text": "I dag har Fastlands-Norge  <a href='https://no.wikipedia.org/wiki/Liste_over_nasjonalparker_i_Norge'>40 nasjonalparker</a>, men ingen av dem ligger i et lavereliggende skogsområde på Østlandet.",
                             "pdf_files": {}
                         },
                         "p_4": {
@@ -102,11 +102,11 @@
                     "header": "Mer informasjon:",
                     "paragraphs": {
                         "p_1": {
-                            "text": "<a href='https://www.regjeringen.no/no/aktuelt/ostmarka/id2632364/'>Klima- og miljødepartementets pressemelding om nasjonalparken</a>",
+                            "text": " <a href='https://www.regjeringen.no/no/aktuelt/ostmarka/id2632364/'>Klima- og miljødepartementets pressemelding om nasjonalparken</a>",
                             "pdf_files": {}
                         },
                         "p_2": {
-                            "text": "Miljødirektoratets vurdering <a href='https://www.miljodirektoratet.no/aktuelt/nyheter/2019/mars-2019/ostmarka-har-vurdert-ny-nasjonalpark/'>her</a>.",
+                            "text": "Miljødirektoratets vurdering  <a href='https://www.miljodirektoratet.no/aktuelt/nyheter/2019/mars-2019/ostmarka-har-vurdert-ny-nasjonalpark/'>her</a>.",
                             "pdf_files": {}
                         },
                         "p_3": {
@@ -114,7 +114,8 @@
                             "pdf_files": {
                                 "pdf_1": {
                                     "text": "Fylkesmannens utredning",
-                                    "pdf_path": "105_section5_paragraph3_anchor1.pdf"
+                                    "local_pdf_path": "105_section5_paragraph3_anchor1.pdf",
+                                    "pdf_path": "https://www.ostmarkasvenner.nohttps://www.fylkesmannen.no/contentassets/f328f21ffc044443aa88fb37abd94271/fmoa-rapport-ostmarka-nasjonalpark_beslutningsgrunnlag.pdf"
                                 }
                             }
                         }
@@ -127,15 +128,16 @@
                     "header": "Tidligere ØV-saker:",
                     "paragraphs": {
                         "p_1": {
-                            "text": "<a href='https://www.ostmarkasvenner.no/langt-skritt-videre-paa-veien-mot-nasjonalpark-i-ostmarka'>Langt skritt videre på veien mot nasjonalpark i Østmarka</a><a href='https://www.ostmarkasvenner.no/lang-tenkning-om-nasjonalparken'>Lang tenkning om nasjonalparken</a>",
+                            "text": " <a href='https://www.ostmarkasvenner.no/langt-skritt-videre-paa-veien-mot-nasjonalpark-i-ostmarka'>Langt skritt videre på veien mot nasjonalpark i Østmarka</a> <a href='https://www.ostmarkasvenner.no/lang-tenkning-om-nasjonalparken'>Lang tenkning om nasjonalparken</a>",
                             "pdf_files": {}
                         },
                         "p_2": {
-                            "text": "<a href='https://www.ostmarkasvenner.no/ostmarka-imponerte-ola-elvestuen'>Østmarka imponerte Ola Elvestuen</a>ØVs brosjyre «Ja til nasjonalpark i Østmarka» (pdf)",
+                            "text": " <a href='https://www.ostmarkasvenner.no/ostmarka-imponerte-ola-elvestuen'>Østmarka imponerte Ola Elvestuen</a>ØVs brosjyre «Ja til nasjonalpark i Østmarka» (pdf)",
                             "pdf_files": {
                                 "pdf_1": {
                                     "text": "ØVs brosjyre «Ja til nasjonalpark i Østmarka» (pdf)",
-                                    "pdf_path": "105_section6_paragraph2_anchor2.pdf"
+                                    "local_pdf_path": "105_section6_paragraph2_anchor2.pdf",
+                                    "pdf_path": "https://www.ostmarkasvenner.no/getfile.php/2578001.2128.fcpeqbdfcb/JA+til+nasjonalpark+i+%C3%98stmarka.pdf"
                                 }
                             }
                         }

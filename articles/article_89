@@ -102,7 +102,7 @@
                             "pdf_files": {}
                         },
                         "p_3": {
-                            "text": "<a href='https://www.ostmarkasvenner.no/bli-m'>Støtt ØVs arbeid med å bevare Østmarka – meld deg inn i dag!</a>",
+                            "text": " <a href='https://www.ostmarkasvenner.no/bli-m'>Støtt ØVs arbeid med å bevare Østmarka – meld deg inn i dag!</a>",
                             "pdf_files": {}
                         }
                     },
@@ -118,7 +118,8 @@
                             "pdf_files": {
                                 "pdf_1": {
                                     "text": "Brevet til Knut Arild Hareide og Sveinung Rotevatn (pdf)",
-                                    "pdf_path": "89_section6_paragraph1_anchor1.pdf"
+                                    "local_pdf_path": "89_section6_paragraph1_anchor1.pdf",
+                                    "pdf_path": "https://www.ostmarkasvenner.no/getfile.php/4668487.2128.twljbpjasaanzk/200217_%C3%98V-Bekymringsmelding+tunnel+under+%C3%98stmarka.pdf"
                                 }
                             }
                         },
@@ -127,16 +128,17 @@
                             "pdf_files": {
                                 "pdf_1": {
                                     "text": "Høringsuttalelsen til Statens vegvesen (pdf)",
-                                    "pdf_path": "89_section6_paragraph2_anchor1.pdf"
+                                    "local_pdf_path": "89_section6_paragraph2_anchor1.pdf",
+                                    "pdf_path": "https://www.ostmarkasvenner.no/getfile.php/4668488.2128.qp7mjiumwimkuq/200316_Konseptvalgutredning+h%C3%B8ringssvar+%C3%98V.pdf"
                                 }
                             }
                         },
                         "p_3": {
-                            "text": "<a href='https://www.vegvesen.no/vegprosjekter/rv22fv120ostforoslo'>Statens vegvesens Konseptvalgutredning (KVU) for vegforbindelse øst for Oslo.</a>",
+                            "text": " <a href='https://www.vegvesen.no/vegprosjekter/rv22fv120ostforoslo'>Statens vegvesens Konseptvalgutredning (KVU) for vegforbindelse øst for Oslo.</a>",
                             "pdf_files": {}
                         },
                         "p_4": {
-                            "text": "Oppslagsbildet: Av Hans A. Rosbach, Wikimedia Commons.<a href='https://no.wikipedia.org/wiki/Motorvei#/media/Fil:E18_Vestfold_Undrumsdal.jpg'>https://no.wikipedia.org/wiki/Motorvei#/media/Fil:E18_Vestfold_Undrumsdal.jpg</a>",
+                            "text": "Oppslagsbildet: Av Hans A. Rosbach, Wikimedia Commons. <a href='https://no.wikipedia.org/wiki/Motorvei#/media/Fil:E18_Vestfold_Undrumsdal.jpg'>https://no.wikipedia.org/wiki/Motorvei#/media/Fil:E18_Vestfold_Undrumsdal.jpg</a>",
                             "pdf_files": {}
                         }
                     },

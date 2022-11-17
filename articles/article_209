@@ -94,7 +94,7 @@
                     "header": null,
                     "paragraphs": {
                         "p_1": {
-                            "text": "Les mer:<a href='http://www.ostmarkasvenner.no/protesterer-mot-grusvei-gjennom-verneomraade'>Protesterer mot grusvei gjennom verneområde</a>",
+                            "text": "Les mer: <a href='http://www.ostmarkasvenner.no/protesterer-mot-grusvei-gjennom-verneomraade'>Protesterer mot grusvei gjennom verneområde</a>",
                             "pdf_files": {}
                         }
                     },
@@ -103,6 +103,6 @@
             },
             "attachments": {}
         },
-        "new_slug": "-helligbrode-med-vei-forbi-dolerud"
+        "new_slug": "helligbrode-med-vei-forbi-dolerud"
     }
 }

@@ -58,7 +58,7 @@
                             "pdf_files": {}
                         },
                         "p_2": {
-                            "text": "Inge Strand er ikke den første som føler seg plaget av flystøy. Avisa Groruddalen hadde i oktober 2013 et intervju med beboere på Grorud, Ammerud og Romsås, som vurderte å <a href='http://groruddalen.no/index.php?page=vis_nyhet&NyhetID=3728'>flytte på grunn av flystøyen</a>. I juli 2014 hadde samme avis et oppslag om «<a href='http://groruddalen.no/index.php?page=vis_nyhet&NyhetID=13294'>Fly-mareritt over Vestli</a>», for å nevne noe.",
+                            "text": "Inge Strand er ikke den første som føler seg plaget av flystøy. Avisa Groruddalen hadde i oktober 2013 et intervju med beboere på Grorud, Ammerud og Romsås, som vurderte å  <a href='http://groruddalen.no/index.php?page=vis_nyhet&NyhetID=3728'>flytte på grunn av flystøyen</a>. I juli 2014 hadde samme avis et oppslag om « <a href='http://groruddalen.no/index.php?page=vis_nyhet&NyhetID=13294'>Fly-mareritt over Vestli</a>», for å nevne noe.",
                             "pdf_files": {}
                         },
                         "p_3": {
@@ -114,19 +114,19 @@
                     "header": "Si din mening",
                     "paragraphs": {
                         "p_1": {
-                            "text": "Østmarkas Venner oppfordrer de medlemmene som mener at flystøyen over Østmarka er plagsom, til å registrere dette på <a href='http://tilbakemelding.avinor.no/Noise/Create'>denne linken</a>.",
+                            "text": "Østmarkas Venner oppfordrer de medlemmene som mener at flystøyen over Østmarka er plagsom, til å registrere dette på  <a href='http://tilbakemelding.avinor.no/Noise/Create'>denne linken</a>.",
                             "pdf_files": {}
                         },
                         "p_2": {
-                            "text": "<a href='https://avinor.no/konsern/flyplass/oslo/miljo-og-lokalsamfunn/flystoy/#!stoy-5025'>Avinors informasjonssider om flystøy</a>",
+                            "text": " <a href='https://avinor.no/konsern/flyplass/oslo/miljo-og-lokalsamfunn/flystoy/#!stoy-5025'>Avinors informasjonssider om flystøy</a>",
                             "pdf_files": {}
                         },
                         "p_3": {
-                            "text": "<a href='http://www.flightradar24.com/59.91,10.74/7' class='text-red-700'>Flightradar24s nettside med oversikt over hvor flyene til og fra Gardermoen befinner seg til enhver tid</a>",
+                            "text": " <a href='http://www.flightradar24.com/59.91,10.74/7' class='text-red-700'>Flightradar24s nettside med oversikt over hvor flyene til og fra Gardermoen befinner seg til enhver tid</a>",
                             "pdf_files": {}
                         },
                         "p_4": {
-                            "text": "<a href='http://www.luftfartstilsynet.no/aktuelt/horinger/H%C3%B8ring_-_ny_forskrift_om_st%C3%B8yforebygging_for_Oslo_lufthavn' class='text-red-700'>Luftfartstilsynets høring om støy fra Oslo lufthavn</a>",
+                            "text": " <a href='http://www.luftfartstilsynet.no/aktuelt/horinger/H%C3%B8ring_-_ny_forskrift_om_st%C3%B8yforebygging_for_Oslo_lufthavn' class='text-red-700'>Luftfartstilsynets høring om støy fra Oslo lufthavn</a>",
                             "pdf_files": {}
                         }
                     },
@@ -135,6 +135,6 @@
             },
             "attachments": {}
         },
-        "new_slug": "-plagsom-flystoy-over-ostmarka"
+        "new_slug": "plagsom-flystoy-over-ostmarka"
     }
 }

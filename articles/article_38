@@ -94,7 +94,7 @@
                             "pdf_files": {}
                         },
                         "p_3": {
-                            "text": "Brevet er undertegnet av<a href='mailto:haavard.pedersen@yahoo.no' class='text-red-700'>Håvard Pedersen</a>på vegne av følgende organisasjoner: Fellesrådet for historielagene, Groruddalen Historielag, Søndre Aker Historielag; Historielaget Grefsen, Kjelsås og Nydalen; Vestre Aker Historielag, Hellerud Historielag, Østensjø Historielag, Sørkedalen Historielag, Sogn kultur- og historielag, DNT Oslo og Omegn, Lillomarkas Venner, Østmarkas Venner, Naturvernforbundet Oslo og Akershus, Naturvernforbundet i Groruddalen.",
+                            "text": "Brevet er undertegnet av <a href='mailto:haavard.pedersen@yahoo.no' class='text-red-700'>Håvard Pedersen</a>på vegne av følgende organisasjoner: Fellesrådet for historielagene, Groruddalen Historielag, Søndre Aker Historielag; Historielaget Grefsen, Kjelsås og Nydalen; Vestre Aker Historielag, Hellerud Historielag, Østensjø Historielag, Sørkedalen Historielag, Sogn kultur- og historielag, DNT Oslo og Omegn, Lillomarkas Venner, Østmarkas Venner, Naturvernforbundet Oslo og Akershus, Naturvernforbundet i Groruddalen.",
                             "pdf_files": {}
                         }
                     },
@@ -106,7 +106,7 @@
                     "header": "Mer informasjon:",
                     "paragraphs": {
                         "p_1": {
-                            "text": "<a href='https://www.ostmarkasvenner.no/kulturminne-myndighetene-i-oslo-og-viken-heier-paa-nasjonalpark-i-ostmarka'>Kulturminne-myndighetene i Oslo og Viken heier på nasjonalpark i Østmarka</a>. Publisert 10. september 2021",
+                            "text": " <a href='https://www.ostmarkasvenner.no/kulturminne-myndighetene-i-oslo-og-viken-heier-paa-nasjonalpark-i-ostmarka'>Kulturminne-myndighetene i Oslo og Viken heier på nasjonalpark i Østmarka</a>. Publisert 10. september 2021",
                             "pdf_files": {}
                         },
                         "p_2": {
@@ -114,16 +114,17 @@
                             "pdf_files": {
                                 "pdf_1": {
                                     "text": "Fagrapport for kulturminner og kulturmiljø i forbindelse med verneplanarbeidet i Østmarka",
-                                    "pdf_path": "38_section5_paragraph2_anchor1.pdf"
+                                    "local_pdf_path": "38_section5_paragraph2_anchor1.pdf",
+                                    "pdf_path": "https://www.ostmarkasvenner.nohttps://www.statsforvalteren.no/contentassets/9f2174f5061140839e8e0051aac482a0/fagrapport-for-kulturminner-og-kulturmiljo.pdf"
                                 }
                             }
                         },
                         "p_3": {
-                            "text": "Østmarkas Venner, Sarabråtens venner, Østensjø historielag og Frie Fuglers forlag:<a href='https://www.ostmarkasvenner.no/ostmarka-en-verneverdig-skog-med-kulturminner'>Østmarka: En verneverdig skog med kulturminner</a>. Publisert 1. juni 2021",
+                            "text": "Østmarkas Venner, Sarabråtens venner, Østensjø historielag og Frie Fuglers forlag: <a href='https://www.ostmarkasvenner.no/ostmarka-en-verneverdig-skog-med-kulturminner'>Østmarka: En verneverdig skog med kulturminner</a>. Publisert 1. juni 2021",
                             "pdf_files": {}
                         },
                         "p_4": {
-                            "text": "Stein Øberg og Evald Jon Strøm: <a href='https://forskersonen.no/arkeologi-kronikk-kulturhistorie/vi-ma-finne-kulturminnene-for-skogsmaskinene-gjor-det/1891291'>Vi må finne kulturminnene før skogsmaskinene gjør det</a>. Forskersonen.no, 16. juli 2021.",
+                            "text": "Stein Øberg og Evald Jon Strøm:  <a href='https://forskersonen.no/arkeologi-kronikk-kulturhistorie/vi-ma-finne-kulturminnene-for-skogsmaskinene-gjor-det/1891291'>Vi må finne kulturminnene før skogsmaskinene gjør det</a>. Forskersonen.no, 16. juli 2021.",
                             "pdf_files": {}
                         }
                     },

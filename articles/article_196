@@ -14,7 +14,8 @@
             "pdf_files": {
                 "pdf_1": {
                     "text": "\"Bruk hue – vis hensyn\"",
-                    "pdf_path": "196_ingress_anchor1.pdf"
+                    "local_pdf_path": "196_ingress_anchor1.pdf",
+                    "pdf_path": "https://www.ostmarkasvenner.no/getfile.php/2698086.2128.wpecsdqatq/sykkelhueflyer.pdf"
                 }
             }
         },
@@ -71,7 +72,7 @@
                     "header": "Bli med å forbedre sykkelvettreglene!",
                     "paragraphs": {
                         "p_1": {
-                            "text": "10 sykkelvettregler samt tre gode råd til de som ferdes til fots, ble i fjor utviklet for å bidra til et trygt og trivelig Marka for alle. Både syklister, turgåere og media reagerte i stor grad positivt, men ikke alle var fornøyde med reglene. Vi tror at reglene kan bli enda bedre og utfordrer derfor alle markabrukere – hva mener DU bør endres? Send inn forslag til: <a href='mailto:oofoslo@online.no' class='text-red-700'>oofoslo@online.no</a>",
+                            "text": "10 sykkelvettregler samt tre gode råd til de som ferdes til fots, ble i fjor utviklet for å bidra til et trygt og trivelig Marka for alle. Både syklister, turgåere og media reagerte i stor grad positivt, men ikke alle var fornøyde med reglene. Vi tror at reglene kan bli enda bedre og utfordrer derfor alle markabrukere – hva mener DU bør endres? Send inn forslag til:  <a href='mailto:oofoslo@online.no' class='text-red-700'>oofoslo@online.no</a>",
                             "pdf_files": {}
                         }
                     },
@@ -167,7 +168,7 @@
                             "pdf_files": {}
                         },
                         "p_2": {
-                            "text": "Johan Hval, 46 29 96 64, <a href='mailto:johanoof@online.no' class='text-red-700'>johanoof@online.no</a>Tom Fremstad, 90 76 36 22, <a href='mailto:tomoof@online.no' class='text-red-700'>tomoof@online.no</a>",
+                            "text": "Johan Hval, 46 29 96 64,  <a href='mailto:johanoof@online.no' class='text-red-700'>johanoof@online.no</a>Tom Fremstad, 90 76 36 22,  <a href='mailto:tomoof@online.no' class='text-red-700'>tomoof@online.no</a>",
                             "pdf_files": {}
                         },
                         "p_3": {

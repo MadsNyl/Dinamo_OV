@@ -50,15 +50,16 @@
                     "header": "Velkommen som medlem!",
                     "paragraphs": {
                         "p_1": {
-                            "text": "Hvis du ønsker å støtte Østmarkas Venner, er du hjertelig velkommen som medlem. Du kan leser mer om nasjonalparken <a href='http://www.ostmarkasvenner.no/nasjonalpark-i-ost'>her</a> på våre nettsider, og i <a href='http://www.ostmarkasvenner.no/ostmarka-er-viktigere-enn-du-tror'>denne kronikken</a> som har stått på trykk i Østlandets Blad.",
+                            "text": "Hvis du ønsker å støtte Østmarkas Venner, er du hjertelig velkommen som medlem. Du kan leser mer om nasjonalparken  <a href='http://www.ostmarkasvenner.no/nasjonalpark-i-ost'>her</a> på våre nettsider, og i  <a href='http://www.ostmarkasvenner.no/ostmarka-er-viktigere-enn-du-tror'>denne kronikken</a> som har stått på trykk i Østlandets Blad.",
                             "pdf_files": {}
                         },
                         "p_2": {
-                            "text": "Da vi kun mottar beskjeden offentlig støtte, er vi helt avhengig av medlemmene våre. Bli med, du også! Se vår flotte vervebrosjyre<a href='https://www.ostmarkasvenner.no/gav'>her</a>, meld deg enkelt inn her, eller gi bort et gavemedlemskap her.",
+                            "text": "Da vi kun mottar beskjeden offentlig støtte, er vi helt avhengig av medlemmene våre. Bli med, du også! Se vår flotte vervebrosjyre <a href='https://www.ostmarkasvenner.no/gav'>her</a>, meld deg enkelt inn her, eller gi bort et gavemedlemskap her.",
                             "pdf_files": {
                                 "pdf_1": {
                                     "text": "her",
-                                    "pdf_path": "231_section3_paragraph2_anchor1.pdf"
+                                    "local_pdf_path": "231_section3_paragraph2_anchor1.pdf",
+                                    "pdf_path": "https://www.ostmarkasvenner.no/getfile.php/2371780.2128.burtcvsywp/Vervebrosjyre_2013.pdf"
                                 }
                             }
                         },
@@ -75,7 +76,7 @@
                     "header": "Medlemsfordeler",
                     "paragraphs": {
                         "p_1": {
-                            "text": "Som medlem er du med på å støtte vårt arbeid, og du vil fire ganger per år få tilsendt medlemsbladet <a href='https://www.ostmarkasvenner.no/nytt-fra-ost'>\"Nytt fra Østmarka\"</a>. Vi arrangerer guida turer og møter for våre medlemmer. Våre medlemmer får også rabatt ved kjøp av bøkene \"Østmarka fra A til Å\" og \"Østmarka\" direkte fra forlagene. Betalingsblankett for medlemskapet vil bli tilsendt med forfall i 2015, men du blir registrert som medlem med en gang og får vårt medlemsblad i posten.",
+                            "text": "Som medlem er du med på å støtte vårt arbeid, og du vil fire ganger per år få tilsendt medlemsbladet  <a href='https://www.ostmarkasvenner.no/nytt-fra-ost'>\"Nytt fra Østmarka\"</a>. Vi arrangerer guida turer og møter for våre medlemmer. Våre medlemmer får også rabatt ved kjøp av bøkene \"Østmarka fra A til Å\" og \"Østmarka\" direkte fra forlagene. Betalingsblankett for medlemskapet vil bli tilsendt med forfall i 2015, men du blir registrert som medlem med en gang og får vårt medlemsblad i posten.",
                             "pdf_files": {}
                         }
                     },

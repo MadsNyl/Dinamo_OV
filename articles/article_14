@@ -170,11 +170,11 @@
                             "pdf_files": {}
                         },
                         "p_2": {
-                            "text": "<a href='/getfile.php/5045241.2128.lktkwwiiaiqau7/Kart_01.PNG' class='text-red-700'>Kart 1</a>Illustrasjon: Lars Lindland.",
+                            "text": " <a href='/getfile.php/5045241.2128.lktkwwiiaiqau7/Kart_01.PNG' class='text-red-700'>Kart 1</a>Illustrasjon: Lars Lindland.",
                             "pdf_files": {}
                         },
                         "p_3": {
-                            "text": "<a href='/getfile.php/5045147.2128.iqizznwmkkbabi/Kart+Dammyrveien+1L.jpg' class='text-red-700'>Kart 2</a>Illustrasjon: Losby Bruk.",
+                            "text": " <a href='/getfile.php/5045147.2128.iqizznwmkkbabi/Kart+Dammyrveien+1L.jpg' class='text-red-700'>Kart 2</a>Illustrasjon: Losby Bruk.",
                             "pdf_files": {}
                         }
                     },

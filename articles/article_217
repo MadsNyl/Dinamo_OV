@@ -22,7 +22,7 @@
                     "header": null,
                     "paragraphs": {
                         "p_1": {
-                            "text": "Det var organisasjonen <a href='http://www.frifo.no/2342.160.Hovedside.html' class='text-red-700'>Norsk Friluftsliv</a> (tidligere Friluftslivets fellesorganisasjon) som arrangerte konferansen på Lillehammer 27. og 28. januar 2015. Hensikten var å samle landets dyktigste friluftsforskere til en utveksling og formidling av ny kunnskap på fagfeltet.",
+                            "text": "Det var organisasjonen  <a href='http://www.frifo.no/2342.160.Hovedside.html' class='text-red-700'>Norsk Friluftsliv</a> (tidligere Friluftslivets fellesorganisasjon) som arrangerte konferansen på Lillehammer 27. og 28. januar 2015. Hensikten var å samle landets dyktigste friluftsforskere til en utveksling og formidling av ny kunnskap på fagfeltet.",
                             "pdf_files": {}
                         },
                         "p_2": {
@@ -62,11 +62,11 @@
                     "header": null,
                     "paragraphs": {
                         "p_1": {
-                            "text": "<a href='https://www.regjeringen.no/nb/aktuelt/verdien-av-godt-kunnskapsgrunnlag-i-friluftslivspolitikken/id2364321/?regj_oss=10'>Les hele talen på regjeringens nettsider</a>",
+                            "text": " <a href='https://www.regjeringen.no/nb/aktuelt/verdien-av-godt-kunnskapsgrunnlag-i-friluftslivspolitikken/id2364321/?regj_oss=10'>Les hele talen på regjeringens nettsider</a>",
                             "pdf_files": {}
                         },
                         "p_2": {
-                            "text": "<a href='http://www.frifo.no/6695.Fri-ferdsel-ulv-folkehelse-og-ville-steder.html' class='text-red-700'>Les en omtale av hele konferansen på Norsk Friluftslivs nettsider</a>",
+                            "text": " <a href='http://www.frifo.no/6695.Fri-ferdsel-ulv-folkehelse-og-ville-steder.html' class='text-red-700'>Les en omtale av hele konferansen på Norsk Friluftslivs nettsider</a>",
                             "pdf_files": {}
                         }
                     },
@@ -75,6 +75,6 @@
             },
             "attachments": {}
         },
-        "new_slug": "-friluftslivet-er-en-viktig-del-av-vaar-kultur"
+        "new_slug": "friluftslivet-er-en-viktig-del-av-vaar-kultur"
     }
 }

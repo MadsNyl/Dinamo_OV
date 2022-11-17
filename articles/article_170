@@ -90,16 +90,17 @@
                             "pdf_files": {
                                 "pdf_1": {
                                     "text": "her",
-                                    "pdf_path": "170_section4_paragraph1_anchor1.pdf"
+                                    "local_pdf_path": "170_section4_paragraph1_anchor1.pdf",
+                                    "pdf_path": "https://www.ostmarkasvenner.no/getfile.php/3449729.2128.uspwcrtaps/160302_%C3%98V+H%C3%B8ringsuttalelse+Elsykkel.pdf"
                                 }
                             }
                         },
                         "p_2": {
-                            "text": "Miljødirektoratets nettside med <a href='http://www.miljodirektoratet.no/no/Horinger/Regelverk/Foreslar-endringer-i-regelverket-for-motorferdsel-i-utmark-201511684/'>høringsuttalelser</a>.",
+                            "text": "Miljødirektoratets nettside med  <a href='http://www.miljodirektoratet.no/no/Horinger/Regelverk/Foreslar-endringer-i-regelverket-for-motorferdsel-i-utmark-201511684/'>høringsuttalelser</a>.",
                             "pdf_files": {}
                         },
                         "p_3": {
-                            "text": "Tine Sundtoft i oktober 2015: <a href='https://www.regjeringen.no/no/aktuelt/onsker-oppmykning-av-regler-for-el-sykler-og-catskiing/id2459132/'>Ønsker oppmykning av regler for el-sykler og catskiing.</a>",
+                            "text": "Tine Sundtoft i oktober 2015:  <a href='https://www.regjeringen.no/no/aktuelt/onsker-oppmykning-av-regler-for-el-sykler-og-catskiing/id2459132/'>Ønsker oppmykning av regler for el-sykler og catskiing.</a>",
                             "pdf_files": {}
                         }
                     },

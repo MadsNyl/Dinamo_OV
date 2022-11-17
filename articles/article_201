@@ -115,7 +115,7 @@
                     },
                     "lists": {
                         "list_1": {
-                            "text": "<a href='http://www.noblad.no/trafikk/bydel-sondre-nordstrand/bydel-ostensjo/fortsatt-parkering-i-skulleruddumpa/s/5-56-11352'>Oslo kommune har nå kjøpt plassen</a>. Den ligger inne med forslag til rehabilitering på 3 millioner.",
+                            "text": " <a href='http://www.noblad.no/trafikk/bydel-sondre-nordstrand/bydel-ostensjo/fortsatt-parkering-i-skulleruddumpa/s/5-56-11352'>Oslo kommune har nå kjøpt plassen</a>. Den ligger inne med forslag til rehabilitering på 3 millioner.",
                             "pdf_files": {}
                         }
                     }
@@ -180,7 +180,8 @@
                             "pdf_files": {
                                 "pdf_1": {
                                     "text": "Høring behovsplan idr-friluftsl-fys akt 2016-2026",
-                                    "pdf_path": "201_section9_paragraph2_anchor1.pdf"
+                                    "local_pdf_path": "201_section9_paragraph2_anchor1.pdf",
+                                    "pdf_path": "https://www.ostmarkasvenner.no/getfile.php/3078843.2128.wrpetvrsyt/H%C3%B8ring+behovsplan+idr-friluftsl-fys+akt+2016-2026.pdf"
                                 }
                             }
                         },
@@ -189,27 +190,33 @@
                             "pdf_files": {
                                 "pdf_1": {
                                     "text": "Vedlegg 1 - Konseptvalgutredning for Behovsplan for idrett, friluftsliv og fysisk aktivitet",
-                                    "pdf_path": "201_section9_paragraph3_anchor1.pdf"
+                                    "local_pdf_path": "201_section9_paragraph3_anchor1.pdf",
+                                    "pdf_path": "https://www.ostmarkasvenner.no/getfile.php/3078845.2128.btrwaptuvf/Vedlegg+1+-+Konseptvalgutredning+for+Behovsplan+for+idrett%2C+friluftsliv+og+.pdf"
                                 },
                                 "pdf_2": {
                                     "text": "Vedlegg 2 - Resultatvurdering av plan for idrett og friluftsliv i Oslo 2013",
-                                    "pdf_path": "201_section9_paragraph3_anchor2.pdf"
+                                    "local_pdf_path": "201_section9_paragraph3_anchor2.pdf",
+                                    "pdf_path": "https://www.ostmarkasvenner.no/getfile.php/3078846.2128.ewctpapsfb/Vedlegg+2+-+Resultatvurdering+av+plan+for+idrett+og+friluftsliv+i+Oslo+2013.pdf"
                                 },
                                 "pdf_3": {
                                     "text": "Vedlegg 3 - Idrettens anleggsdekning i Oslo",
-                                    "pdf_path": "201_section9_paragraph3_anchor3.pdf"
+                                    "local_pdf_path": "201_section9_paragraph3_anchor3.pdf",
+                                    "pdf_path": "https://www.ostmarkasvenner.no/getfile.php/3078847.2128.dwsvruutbu/Vedlegg+3+-+Idrettens+anleggsdekning+i+Oslo.pdf"
                                 },
                                 "pdf_4": {
                                     "text": "Vedlegg 4 - Kart over idretts- og friluftslivstilbudet i Oslo",
-                                    "pdf_path": "201_section9_paragraph3_anchor4.pdf"
+                                    "local_pdf_path": "201_section9_paragraph3_anchor4.pdf",
+                                    "pdf_path": "https://www.ostmarkasvenner.no/getfile.php/3078848.2128.dxrvutrsse/Vedlegg+4+-+Kart+over+idretts-+og+friluftslivstilbudet+i+Oslo.pdf"
                                 },
                                 "pdf_5": {
                                     "text": "Vedlegg 5 - Handlingsprogram 2016-2019",
-                                    "pdf_path": "201_section9_paragraph3_anchor5.pdf"
+                                    "local_pdf_path": "201_section9_paragraph3_anchor5.pdf",
+                                    "pdf_path": "https://www.ostmarkasvenner.no/getfile.php/3078849.2128.scasrvfrur/Vedlegg+5+-+Handlingsprogram+2016-2019.pdf"
                                 },
                                 "pdf_6": {
                                     "text": "Vedlegg 6 - Uprioriterte tiltak",
-                                    "pdf_path": "201_section9_paragraph3_anchor6.pdf"
+                                    "local_pdf_path": "201_section9_paragraph3_anchor6.pdf",
+                                    "pdf_path": "https://www.ostmarkasvenner.no/getfile.php/3078850.2128.cbxdppvddt/Vedlegg+6+-+Uprioriterte+tiltak.pdf"
                                 }
                             }
                         }

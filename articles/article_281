@@ -30,7 +30,8 @@
                             "pdf_files": {
                                 "pdf_1": {
                                     "text": "her",
-                                    "pdf_path": "281_section1_paragraph2_anchor1.pdf"
+                                    "local_pdf_path": "281_section1_paragraph2_anchor1.pdf",
+                                    "pdf_path": "https://www.ostmarkasvenner.nohttp://www.byradet.oslo.kommune.no/getfile.php/Byrådet (BYR)/Internett (BYR)/Dokumenter/Pressemeldinger/130130 PM Ja til nasjonalpark i Østmarka.pdf"
                                 }
                             }
                         }

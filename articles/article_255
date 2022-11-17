@@ -54,7 +54,7 @@
                             "pdf_files": {}
                         },
                         "p_9": {
-                            "text": "Østmarkas Venner: <a href='http://www.ostmarkasvenner.no/' class='text-inidigo-700'>http://www.ostmarkasvenner.no/</a>",
+                            "text": "Østmarkas Venner:  <a href='http://www.ostmarkasvenner.no/' class='text-inidigo-700'>http://www.ostmarkasvenner.no/</a>",
                             "pdf_files": {}
                         },
                         "p_10": {
@@ -66,7 +66,7 @@
                             "pdf_files": {}
                         },
                         "p_12": {
-                            "text": "Steinar Saghaug, mobil 913 72 242, e-post: <a href='mailto:steinar@saghaug.no' class='text-red-700'>steinar@saghaug.no</a>",
+                            "text": "Steinar Saghaug, mobil 913 72 242, e-post:  <a href='mailto:steinar@saghaug.no' class='text-red-700'>steinar@saghaug.no</a>",
                             "pdf_files": {}
                         }
                     }

@@ -14,7 +14,7 @@
             "sections": {},
             "attachments": {
                 "attachment_1": {
-                    "text": "<a href='http://www1.nrk.no/nett-tv/klipp/298683' class='text-red-700'>Programmet kan ses i nett-tv.</a>",
+                    "text": " <a href='http://www1.nrk.no/nett-tv/klipp/298683' class='text-red-700'>Programmet kan ses i nett-tv.</a>",
                     "pdf": {}
                 }
             }

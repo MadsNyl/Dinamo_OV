@@ -42,7 +42,7 @@
                             "pdf_files": {}
                         },
                         "p_2": {
-                            "text": "Les mer om <a href='http://www.terrengsykkel.no/Telex/NOTS-stiller-krav-til-Terrengsykkelrittet'>NOTS’ krav til Terrengsykkelrittet her</a>",
+                            "text": "Les mer om  <a href='http://www.terrengsykkel.no/Telex/NOTS-stiller-krav-til-Terrengsykkelrittet'>NOTS’ krav til Terrengsykkelrittet her</a>",
                             "pdf_files": {}
                         },
                         "p_3": {
@@ -62,7 +62,7 @@
                             "pdf_files": {}
                         },
                         "p_7": {
-                            "text": "<a href='http://www.aftenposten.no/meninger/debatt/Jeg-har-baret-min-siste-hundebasj-rundt-i-Ostmarka-8049665.html' class='text-red-700'>Les Kristin Lunds innlegg her</a>",
+                            "text": " <a href='http://www.aftenposten.no/meninger/debatt/Jeg-har-baret-min-siste-hundebasj-rundt-i-Ostmarka-8049665.html' class='text-red-700'>Les Kristin Lunds innlegg her</a>",
                             "pdf_files": {}
                         }
                     },
@@ -78,7 +78,7 @@
                             "pdf_files": {}
                         },
                         "p_2": {
-                            "text": "<a href='http://www.terrengsykkel.no/Trynefaktor/Kommentar-Positivt-tross-alt-Terrengsykkelrittet' class='text-red-700'>Les Øyvind Aas’ innlegg her</a>",
+                            "text": " <a href='http://www.terrengsykkel.no/Trynefaktor/Kommentar-Positivt-tross-alt-Terrengsykkelrittet' class='text-red-700'>Les Øyvind Aas’ innlegg her</a>",
                             "pdf_files": {}
                         },
                         "p_3": {
@@ -146,7 +146,7 @@
                             "pdf_files": {}
                         },
                         "p_2": {
-                            "text": "<a href='http://www.nots.no/ta-vare-pa-stiene-i-ostmarka/'>Les mer om NOTS’ oppfordring her</a>",
+                            "text": " <a href='http://www.nots.no/ta-vare-pa-stiene-i-ostmarka/'>Les mer om NOTS’ oppfordring her</a>",
                             "pdf_files": {}
                         }
                     },
@@ -158,15 +158,15 @@
                     "header": "Les mer:",
                     "paragraphs": {
                         "p_1": {
-                            "text": "<a href='http://www.ostmarkasvenner.no/sterke-reaksjoner-paa-terrengsykkelrittet'>Sterke reaksjoner på Terrengsykkelrittet</a>",
+                            "text": " <a href='http://www.ostmarkasvenner.no/sterke-reaksjoner-paa-terrengsykkelrittet'>Sterke reaksjoner på Terrengsykkelrittet</a>",
                             "pdf_files": {}
                         },
                         "p_2": {
-                            "text": "<a href='http://www.terrengsykkel.no/Telex/forbedring-terrengsykkel2015'>Lover forbedring av Terrengsykkelrittet</a>",
+                            "text": " <a href='http://www.terrengsykkel.no/Telex/forbedring-terrengsykkel2015'>Lover forbedring av Terrengsykkelrittet</a>",
                             "pdf_files": {}
                         },
                         "p_3": {
-                            "text": "<a href='http://www.ostmarkasvenner.no/aksjonerer-sammen-for-hensynsfull-markabruk'>Aksjonerer sammen for hensynsfull markabruk</a>",
+                            "text": " <a href='http://www.ostmarkasvenner.no/aksjonerer-sammen-for-hensynsfull-markabruk'>Aksjonerer sammen for hensynsfull markabruk</a>",
                             "pdf_files": {}
                         }
                     },

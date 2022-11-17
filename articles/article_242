@@ -106,11 +106,11 @@
                     "header": "Være med?",
                     "paragraphs": {
                         "p_1": {
-                            "text": "Ønsker du å delta? Se programmet for mer informasjon om tid og sted. Husk uteklær og godt fottøy til kveldsvandring, overnatting og lørdagens aktiviteter. Det er begrenset med plass til overnattingsturen, for mer informasjon og påmelding til denne, kontakt Live Danielsen <a href='mailto:live.danielsen@miljodir.no' class='text-red-700'>live.danielsen@miljodir.no</a> tlf. 976 31030.",
+                            "text": "Ønsker du å delta? Se programmet for mer informasjon om tid og sted. Husk uteklær og godt fottøy til kveldsvandring, overnatting og lørdagens aktiviteter. Det er begrenset med plass til overnattingsturen, for mer informasjon og påmelding til denne, kontakt Live Danielsen  <a href='mailto:live.danielsen@miljodir.no' class='text-red-700'>live.danielsen@miljodir.no</a> tlf. 976 31030.",
                             "pdf_files": {}
                         },
                         "p_2": {
-                            "text": "For generell info om arrangementet, kontakt Ida Glemminge, <a href='mailto:ida.glemminge@miljodir.no' class='text-red-700'>ida.glemminge@miljodir.no</a> tlf. 996 26836.",
+                            "text": "For generell info om arrangementet, kontakt Ida Glemminge,  <a href='mailto:ida.glemminge@miljodir.no' class='text-red-700'>ida.glemminge@miljodir.no</a> tlf. 996 26836.",
                             "pdf_files": {}
                         }
                     },

@@ -6,7 +6,7 @@
         "header": "Nye kart over Østmarka",
         "ingress": {
             "image": {},
-            "text": "Friluftsetaten i Oslo kommune har publisert nye <a href='http://www.friluftsetaten.oslo.kommune.no/kart/marka/ostmarka_handmalte/'>håndmalte kart over Østmarka</a>.",
+            "text": "Friluftsetaten i Oslo kommune har publisert nye  <a href='http://www.friluftsetaten.oslo.kommune.no/kart/marka/ostmarka_handmalte/'>håndmalte kart over Østmarka</a>.",
             "pdf_files": {}
         },
         "author": "Webmaster",

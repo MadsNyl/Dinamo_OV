@@ -10,7 +10,8 @@
             "pdf_files": {
                 "pdf_1": {
                     "text": "føldende program",
-                    "pdf_path": "306_ingress_anchor1.pdf"
+                    "local_pdf_path": "306_ingress_anchor1.pdf",
+                    "pdf_path": "https://www.ostmarkasvenner.nogetfile.php/1956362.2128.acpxcdtded/invitasjon130512.pdf"
                 }
             }
         },
@@ -27,7 +28,7 @@
                             "pdf_files": {}
                         },
                         "p_2": {
-                            "text": "Pressekontakt: Sigmund Hågvar, leder for skog- og verneutvalget i Østmarkas Venner\r\nMobil: 91 71 45 10, E-post:<a href='mailto:sigmund.hagvar@umb.no' class='text-red-700'>sigmund.hagvar@umb.no</a>",
+                            "text": "Pressekontakt: Sigmund Hågvar, leder for skog- og verneutvalget i Østmarkas Venner\r\nMobil: 91 71 45 10, E-post: <a href='mailto:sigmund.hagvar@umb.no' class='text-red-700'>sigmund.hagvar@umb.no</a>",
                             "pdf_files": {}
                         }
                     },

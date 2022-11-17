@@ -150,7 +150,8 @@
                             "pdf_files": {
                                 "pdf_1": {
                                     "text": "Her kan du lese ØVs høringsuttalelse.",
-                                    "pdf_path": "19_section8_paragraph1_anchor1.pdf"
+                                    "local_pdf_path": "19_section8_paragraph1_anchor1.pdf",
+                                    "pdf_path": "https://www.ostmarkasvenner.no/getfile.php/5030560.2128.pqjimkwjnbpukq/220524_%C3%98V-Uttalelse+offentlig+ettersyn+av+detaljreguleringsplan+i+Brudalen.pdf"
                                 }
                             }
                         }

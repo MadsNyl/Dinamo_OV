@@ -154,11 +154,11 @@
                     "header": "Mer informasjon:",
                     "paragraphs": {
                         "p_1": {
-                            "text": "Østmarkas Venner: <a href='https://www.ostmarkasvenner.no/ov-advarer-sterkt-mot-at-innsjoer-i-ostmarka-blir-odelagt'>ØV advarer sterkt mot at innsjøer i Østmarka blir ødelagt</a>. Publisert 16. april 2018",
+                            "text": "Østmarkas Venner:  <a href='https://www.ostmarkasvenner.no/ov-advarer-sterkt-mot-at-innsjoer-i-ostmarka-blir-odelagt'>ØV advarer sterkt mot at innsjøer i Østmarka blir ødelagt</a>. Publisert 16. april 2018",
                             "pdf_files": {}
                         },
                         "p_2": {
-                            "text": "<a href='https://www.ralingen.kommune.no/dammer.425251.no.html'>Informasjon om dammer i Rælingen</a>",
+                            "text": " <a href='https://www.ralingen.kommune.no/dammer.425251.no.html'>Informasjon om dammer i Rælingen</a>",
                             "pdf_files": {}
                         }
                     },
@@ -167,6 +167,6 @@
             },
             "attachments": {}
         },
-        "new_slug": "-innsjoer-i-ostmarka-er-reddet-for-friluftslivet"
+        "new_slug": "innsjoer-i-ostmarka-er-reddet-for-friluftslivet"
     }
 }

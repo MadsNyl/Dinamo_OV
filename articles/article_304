@@ -30,7 +30,8 @@
                             "pdf_files": {
                                 "pdf_1": {
                                     "text": "her",
-                                    "pdf_path": "304_section1_extra_anchor1.pdf"
+                                    "local_pdf_path": "304_section1_extra_anchor1.pdf",
+                                    "pdf_path": "https://www.ostmarkasvenner.nogetfile.php/1964661.2128.rsreurrpay/invitasjon7juni2012.pdf"
                                 }
                             }
                         }

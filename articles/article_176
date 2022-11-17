@@ -34,7 +34,7 @@
                             "pdf_files": {}
                         },
                         "p_5": {
-                            "text": "Jubileumskalender med oversikt over arrangementene finner du <a href='https://www.ostmarkasvenner.no/jubileumskalender-ov'>her</a>. Utfyllende informasjon om arrangementene annonseres etter hvert. ØV tar forbehold om endringer i programmet, så følg med på våre nett- og FB-sider.",
+                            "text": "Jubileumskalender med oversikt over arrangementene finner du  <a href='https://www.ostmarkasvenner.no/jubileumskalender-ov'>her</a>. Utfyllende informasjon om arrangementene annonseres etter hvert. ØV tar forbehold om endringer i programmet, så følg med på våre nett- og FB-sider.",
                             "pdf_files": {}
                         },
                         "p_6": {
@@ -54,7 +54,8 @@
                             "pdf_files": {
                                 "pdf_1": {
                                     "text": "her",
-                                    "pdf_path": "176_section2_paragraph1_anchor1.pdf"
+                                    "local_pdf_path": "176_section2_paragraph1_anchor1.pdf",
+                                    "pdf_path": "https://www.ostmarkasvenner.no/getfile.php/3266006.2128.auvxebpwwf/Jubileumskalender+folder.pdf"
                                 }
                             }
                         }

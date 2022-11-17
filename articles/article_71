@@ -22,7 +22,7 @@
                     "header": null,
                     "paragraphs": {
                         "p_1": {
-                            "text": "Turgåerne har reagert på en hogst i den nordøstre delen av Børter-eiendommen, nærmere bestemt vest for Fudalen og Bikkjetjern-Helletjerna. Hogsten ble gjennomført i flere omganger, i all hovedsak i 2018. Østmarkas Venner (ØV) har nå skrevet brev til Enebakk kommune og bedt dem undersøke om hogsten er lovlig i henhold til <a href='https://lovdata.no/dokument/LF/forskrift/1993-04-02-268' class='text-red-700'>markaforskriften</a>, den norske <a href='https://pefc.no/vare-standarder/norsk-pefc-skogstandard' class='text-red-700'>skogstandarden PEFC</a> og <a href='https://lovdata.no/dokument/SF/forskrift/2006-06-07-593'>forskriften om berekraftig skogbruk</a> fra 2006.",
+                            "text": "Turgåerne har reagert på en hogst i den nordøstre delen av Børter-eiendommen, nærmere bestemt vest for Fudalen og Bikkjetjern-Helletjerna. Hogsten ble gjennomført i flere omganger, i all hovedsak i 2018. Østmarkas Venner (ØV) har nå skrevet brev til Enebakk kommune og bedt dem undersøke om hogsten er lovlig i henhold til  <a href='https://lovdata.no/dokument/LF/forskrift/1993-04-02-268' class='text-red-700'>markaforskriften</a>, den norske  <a href='https://pefc.no/vare-standarder/norsk-pefc-skogstandard' class='text-red-700'>skogstandarden PEFC</a> og  <a href='https://lovdata.no/dokument/SF/forskrift/2006-06-07-593'>forskriften om berekraftig skogbruk</a> fra 2006.",
                             "pdf_files": {}
                         },
                         "p_2": {
@@ -74,7 +74,7 @@
                             "pdf_files": {}
                         },
                         "p_2": {
-                            "text": "Markaforskriften sier blant annet at det skal settes igjen kantsoner mellom de enkelte hogstflatene for å begrense flatestørrelsen. Også <a href='https://lovdata.no/dokument/SF/forskrift/2006-06-07-593'>Forskrift om berekraftig skogbruk</a> har bestemmelser om kantsoner; der heter det blant annet at «.. ved hogst i kantsoner mot vatn og vassdrag og mellom skog og anna mark skal kantsona sin økologiske funksjon takast vare på». Ved hogsten på Børtereiendommen er det satt igjen grupper av trær, men ØV mener at dette ikke kan karakteriseres som tilfredsstillende kantsoner i forskriftenes forstand.",
+                            "text": "Markaforskriften sier blant annet at det skal settes igjen kantsoner mellom de enkelte hogstflatene for å begrense flatestørrelsen. Også  <a href='https://lovdata.no/dokument/SF/forskrift/2006-06-07-593'>Forskrift om berekraftig skogbruk</a> har bestemmelser om kantsoner; der heter det blant annet at «.. ved hogst i kantsoner mot vatn og vassdrag og mellom skog og anna mark skal kantsona sin økologiske funksjon takast vare på». Ved hogsten på Børtereiendommen er det satt igjen grupper av trær, men ØV mener at dette ikke kan karakteriseres som tilfredsstillende kantsoner i forskriftenes forstand.",
                             "pdf_files": {}
                         },
                         "p_3": {
@@ -98,20 +98,21 @@
                             "pdf_files": {
                                 "pdf_1": {
                                     "text": "Østmarkas Venners brev til Enebakk kommune",
-                                    "pdf_path": "71_section5_paragraph1_anchor1.pdf"
+                                    "local_pdf_path": "71_section5_paragraph1_anchor1.pdf",
+                                    "pdf_path": "https://www.ostmarkasvenner.no/getfile.php/4828970.2128.ip7iiappjlbwju/210226_%C3%98V-Lovlighetskontroll+av+hogst+pa%CC%8A+B%C3%B8rter+i+Enebakk+med+vedlegg.pdf"
                                 }
                             }
                         },
                         "p_2": {
-                            "text": "<a href='https://lovdata.no/dokument/LF/forskrift/1993-04-02-268' class='text-red-700'>Markaforskriften</a>",
+                            "text": " <a href='https://lovdata.no/dokument/LF/forskrift/1993-04-02-268' class='text-red-700'>Markaforskriften</a>",
                             "pdf_files": {}
                         },
                         "p_3": {
-                            "text": "<a href='https://lovdata.no/dokument/SF/forskrift/2006-06-07-593'>Forskrift om berekraftig skogbruk</a>",
+                            "text": " <a href='https://lovdata.no/dokument/SF/forskrift/2006-06-07-593'>Forskrift om berekraftig skogbruk</a>",
                             "pdf_files": {}
                         },
                         "p_4": {
-                            "text": "ØV: <a href='https://www.ostmarkasvenner.no/-markaforskriften-maa-endres-og-sendes-paa-ny-horing'>– Markaforskriften må endres og sendes på ny høring</a>. Publisert 26. oktober 2017.",
+                            "text": "ØV:  <a href='https://www.ostmarkasvenner.no/-markaforskriften-maa-endres-og-sendes-paa-ny-horing'>– Markaforskriften må endres og sendes på ny høring</a>. Publisert 26. oktober 2017.",
                             "pdf_files": {}
                         }
                     },

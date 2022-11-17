@@ -134,7 +134,7 @@
                     "header": "Flere medlemmer gjør oss sterkere",
                     "paragraphs": {
                         "p_1": {
-                            "text": "ØVs medlemmer fikk medlemsbladet – med den svært fyldige årsberetningen – i postkassene sine i begynnelsen av mars. Vi har også publisert en pdf-versjon av medlemsbladet på nettsidene våre under vignetten <a href='https://www.ostmarkasvenner.no/nytt-fra-ost'>«Nytt fra Østmarka»</a>. I årsberetningen vil du finne mye informasjon om hvordan vi har behandlet saker som omhandler både Østmarka generelt og akkurat den kommunen du bor i, enten det er Oslo, Enebakk, Lørenskog, Rælingen eller Nordre Follo.",
+                            "text": "ØVs medlemmer fikk medlemsbladet – med den svært fyldige årsberetningen – i postkassene sine i begynnelsen av mars. Vi har også publisert en pdf-versjon av medlemsbladet på nettsidene våre under vignetten  <a href='https://www.ostmarkasvenner.no/nytt-fra-ost'>«Nytt fra Østmarka»</a>. I årsberetningen vil du finne mye informasjon om hvordan vi har behandlet saker som omhandler både Østmarka generelt og akkurat den kommunen du bor i, enten det er Oslo, Enebakk, Lørenskog, Rælingen eller Nordre Follo.",
                             "pdf_files": {}
                         },
                         "p_2": {
@@ -142,7 +142,7 @@
                             "pdf_files": {}
                         },
                         "p_3": {
-                            "text": "<a href='https://www.ostmarkasvenner.no/nytt-fra-ost'>Les «Nytt fra Østmarka» her.</a>",
+                            "text": " <a href='https://www.ostmarkasvenner.no/nytt-fra-ost'>Les «Nytt fra Østmarka» her.</a>",
                             "pdf_files": {}
                         }
                     },

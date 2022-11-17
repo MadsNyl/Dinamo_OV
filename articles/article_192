@@ -74,15 +74,15 @@
                     "header": null,
                     "paragraphs": {
                         "p_1": {
-                            "text": "Les mer:<a href='http://www.sandbakken-sportsstue.no/'>Sandbakken på internett</a>",
+                            "text": "Les mer: <a href='http://www.sandbakken-sportsstue.no/'>Sandbakken på internett</a>",
                             "pdf_files": {}
                         },
                         "p_2": {
-                            "text": "<a href='http://www.nrk.no/ostlandssendingen/fra-arktis-til-ostmarka-1.12373365'>Fra Arktis til Østmarka - NRK Østlandssendingens reportasje</a>",
+                            "text": " <a href='http://www.nrk.no/ostlandssendingen/fra-arktis-til-ostmarka-1.12373365'>Fra Arktis til Østmarka - NRK Østlandssendingens reportasje</a>",
                             "pdf_files": {}
                         },
                         "p_3": {
-                            "text": "<a href='http://www.ostmarkasvenner.no/-vi-kommer-til-aa-savne-stamgjestene'>– Vi kommer til å savne stamgjestene</a>",
+                            "text": " <a href='http://www.ostmarkasvenner.no/-vi-kommer-til-aa-savne-stamgjestene'>– Vi kommer til å savne stamgjestene</a>",
                             "pdf_files": {}
                         }
                     },

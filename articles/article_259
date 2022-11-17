@@ -130,7 +130,7 @@
                     "header": null,
                     "paragraphs": {
                         "p_1": {
-                            "text": "Bilder fra «Oslos Amazonas» kan du se <a href='http://flic.kr/s/aHsjGipR9z'>her</a>.",
+                            "text": "Bilder fra «Oslos Amazonas» kan du se  <a href='http://flic.kr/s/aHsjGipR9z'>her</a>.",
                             "pdf_files": {}
                         }
                     },
@@ -139,6 +139,6 @@
             },
             "attachments": {}
         },
-        "new_slug": "-sett-deg-stille-ned-og-naturen-kommer-til-deg"
+        "new_slug": "sett-deg-stille-ned-og-naturen-kommer-til-deg"
     }
 }

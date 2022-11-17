@@ -110,7 +110,8 @@
                             "pdf_files": {
                                 "pdf_1": {
                                     "text": "Les ØVs høringsuttalelse.",
-                                    "pdf_path": "198_section6_paragraph1_anchor1.pdf"
+                                    "local_pdf_path": "198_section6_paragraph1_anchor1.pdf",
+                                    "pdf_path": "https://www.ostmarkasvenner.no/getfile.php/3056874.2128.upvrwqpxqe/150531_H%C3%B8ring+%C3%98V+til+NVE+dam+N%C3%B8klevann.pdf"
                                 }
                             }
                         }

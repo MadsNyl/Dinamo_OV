@@ -46,7 +46,8 @@
                             "pdf_files": {
                                 "pdf_1": {
                                     "text": "her",
-                                    "pdf_path": "234_section1_paragraph6_anchor1.pdf"
+                                    "local_pdf_path": "234_section1_paragraph6_anchor1.pdf",
+                                    "pdf_path": "https://www.ostmarkasvenner.no/getfile.php/2672128.2128.ucvcaqecew/040714_Lutvann+leir+-+kommentarer+til+planprogram+fra+%C3%98V.pdf"
                                 }
                             }
                         }
@@ -63,7 +64,7 @@
                             "pdf_files": {}
                         },
                         "p_2": {
-                            "text": "Bente Lise Dagenborg, varamedlem. Tlf: 419 22941.Epost: <a href='mailto:bente-lise@ostmarkasvenner.no' class='text-red-700'>bente-lise@ostmarkasvenner.no</a>",
+                            "text": "Bente Lise Dagenborg, varamedlem. Tlf: 419 22941.Epost:  <a href='mailto:bente-lise@ostmarkasvenner.no' class='text-red-700'>bente-lise@ostmarkasvenner.no</a>",
                             "pdf_files": {}
                         }
                     },

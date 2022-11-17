@@ -186,7 +186,8 @@
                             "pdf_files": {
                                 "pdf_1": {
                                     "text": "Her kan du lese Statsforvalterens uttalelse.",
-                                    "pdf_path": "18_section9_paragraph1_anchor1.pdf"
+                                    "local_pdf_path": "18_section9_paragraph1_anchor1.pdf",
+                                    "pdf_path": "https://www.ostmarkasvenner.no/getfile.php/5032846.2128.jzkzskmqkik7zj/Statsforvalterens+uttalelse+20220530.pdf"
                                 }
                             }
                         }

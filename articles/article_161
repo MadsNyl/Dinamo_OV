@@ -26,7 +26,8 @@
                             "pdf_files": {
                                 "pdf_1": {
                                     "text": "se vedlagt hefte",
-                                    "pdf_path": "161_section1_paragraph1_anchor1.pdf"
+                                    "local_pdf_path": "161_section1_paragraph1_anchor1.pdf",
+                                    "pdf_path": "https://www.ostmarkasvenner.no/getfile.php/3582118.2128.awdxvteque/Hefte+om+Gr%C3%B8nmoplan.pdf"
                                 }
                             }
                         },
@@ -87,7 +88,8 @@
                             "pdf_files": {
                                 "pdf_1": {
                                     "text": "se vedlagte dokument",
-                                    "pdf_path": "161_section3_paragraph1_anchor1.pdf"
+                                    "local_pdf_path": "161_section3_paragraph1_anchor1.pdf",
+                                    "pdf_path": "https://www.ostmarkasvenner.no/getfile.php/3582118.2128.awdxvteque/Hefte+om+Gr%C3%B8nmoplan.pdf"
                                 }
                             }
                         },
@@ -121,6 +123,6 @@
             },
             "attachments": {}
         },
-        "new_slug": "-gi-gronmo-tilbake-til-folket"
+        "new_slug": "gi-gronmo-tilbake-til-folket"
     }
 }

@@ -54,16 +54,17 @@
                             "pdf_files": {
                                 "pdf_1": {
                                     "text": "her",
-                                    "pdf_path": "238_section1_extra_anchor1.pdf"
+                                    "local_pdf_path": "238_section1_extra_anchor1.pdf",
+                                    "pdf_path": "https://www.ostmarkasvenner.no/getfile.php/2638253.2128.tteeaecrey/290514_Kommuneplan+for+Oslo+-+H%C3%B8ringsuttalelse++%C3%98stmarkas+Venner.pdf"
                                 }
                             }
                         },
                         "p_9": {
-                            "text": "Kontaktpersoner i ØVs styre:\r\nHelga Gunnarsdottir, styremedlem. Tlf: 959 95 349.\nEpost: <a href='mailto:helga@ostmarkasvenner.no' class='text-red-700'>helga@ostmarkasvenner.no</a>",
+                            "text": "Kontaktpersoner i ØVs styre:\r\nHelga Gunnarsdottir, styremedlem. Tlf: 959 95 349.\nEpost:  <a href='mailto:helga@ostmarkasvenner.no' class='text-red-700'>helga@ostmarkasvenner.no</a>",
                             "pdf_files": {}
                         },
                         "p_10": {
-                            "text": "Bente Lise Dagenborg, varamedlem. Tlf: 419 22941.\r\nEpost: <a href='mailto:bente-lise@ostmarkasvenner.no' class='text-red-700'>bente-lise@ostmarkasvenner.no</a>",
+                            "text": "Bente Lise Dagenborg, varamedlem. Tlf: 419 22941.\r\nEpost:  <a href='mailto:bente-lise@ostmarkasvenner.no' class='text-red-700'>bente-lise@ostmarkasvenner.no</a>",
                             "pdf_files": {}
                         }
                     }

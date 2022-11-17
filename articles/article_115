@@ -218,7 +218,7 @@
                     "header": "Noe kjent med anorakken…",
                     "paragraphs": {
                         "p_1": {
-                            "text": "Anne Sverdrup-Thygeson hadde skrevet mye om insekter på blant annet bloggen <a href='http://blogg.nmbu.no/insektokologene/'>http://blogg.nmbu.no/insektokologene/</a>før J.M. Stenersens forlag tok kontakt og lurte på om hun hadde lyst til å skrive en bok om temaet. På den bloggen er hun fortsatt aktiv, i tillegg til at hun er en etterspurt foredragsholder i både inn- og utland. Det er forresten ikke bare insekter som kan gi spennende opplevelser i Østmarka:",
+                            "text": "Anne Sverdrup-Thygeson hadde skrevet mye om insekter på blant annet bloggen  <a href='http://blogg.nmbu.no/insektokologene/'>http://blogg.nmbu.no/insektokologene/</a>før J.M. Stenersens forlag tok kontakt og lurte på om hun hadde lyst til å skrive en bok om temaet. På den bloggen er hun fortsatt aktiv, i tillegg til at hun er en etterspurt foredragsholder i både inn- og utland. Det er forresten ikke bare insekter som kan gi spennende opplevelser i Østmarka:",
                             "pdf_files": {}
                         },
                         "p_2": {
@@ -235,6 +235,6 @@
             },
             "attachments": {}
         },
-        "new_slug": "-uten-insektene-rakner-alt"
+        "new_slug": "uten-insektene-rakner-alt"
     }
 }

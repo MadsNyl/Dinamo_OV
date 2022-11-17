@@ -154,7 +154,8 @@
                             "pdf_files": {
                                 "pdf_1": {
                                     "text": "Kulturminner og kulturhistorie i Østmarka",
-                                    "pdf_path": "78_section8_paragraph1_anchor1.pdf"
+                                    "local_pdf_path": "78_section8_paragraph1_anchor1.pdf",
+                                    "pdf_path": "https://www.ostmarkasvenner.no/getfile.php/4789404.2128.ttuktmsawltsui/201215_Vedlegg-Kulturminner+%C3%98stmarka.pdf"
                                 }
                             }
                         },
@@ -204,7 +205,8 @@
                             "pdf_files": {
                                 "pdf_1": {
                                     "text": "Sandbakken-Eriksvann",
-                                    "pdf_path": "78_section10_list1_anchor1.pdf"
+                                    "local_pdf_path": "78_section10_list1_anchor1.pdf",
+                                    "pdf_path": "https://www.ostmarkasvenner.no/getfile.php/4789405.2128.zm77mbplp7qjbb/201215_Vedlegg-Delomr%C3%A5de+1+Sandbakken+-+Eriksvann+mellom+kraftlinja+og+Spinneren.pdf"
                                 }
                             }
                         },
@@ -213,7 +215,8 @@
                             "pdf_files": {
                                 "pdf_1": {
                                     "text": "Langvannsbrenninga til Sør-Elvåga",
-                                    "pdf_path": "78_section10_list2_anchor1.pdf"
+                                    "local_pdf_path": "78_section10_list2_anchor1.pdf",
+                                    "pdf_path": "https://www.ostmarkasvenner.no/getfile.php/4789406.2128.kbmm7wwljptuzz/201215_Vedlegg-Delomra%CC%8Ade+2+Langvannsbrenninga+Sota%CC%8Asen.pdf"
                                 }
                             }
                         },
@@ -222,7 +225,8 @@
                             "pdf_files": {
                                 "pdf_1": {
                                     "text": "Trolldalsåsen og Trolldalen",
-                                    "pdf_path": "78_section10_list3_anchor1.pdf"
+                                    "local_pdf_path": "78_section10_list3_anchor1.pdf",
+                                    "pdf_path": "https://www.ostmarkasvenner.no/getfile.php/4789407.2128.bnztzlbml7wtb7/201215_Vedlegg-Delomr%C3%A5de+3+Trolldalen+og+Trolldals%C3%A5sen.pdf"
                                 }
                             }
                         }
@@ -247,7 +251,8 @@
                             "pdf_files": {
                                 "pdf_1": {
                                     "text": "Bremsrudåsen og Revehidalen",
-                                    "pdf_path": "78_section11_list1_anchor1.pdf"
+                                    "local_pdf_path": "78_section11_list1_anchor1.pdf",
+                                    "pdf_path": "https://www.ostmarkasvenner.no/getfile.php/4789408.2128.ltmqwkwiwlkmij/201215_Vedlegg-Delomr%C3%A5de+4+Bremsrud%C3%A5sen+Revehidalen+Hestehol%C3%A5sen.pdf"
                                 }
                             }
                         },
@@ -256,7 +261,8 @@
                             "pdf_files": {
                                 "pdf_1": {
                                     "text": "Områdene øst for Hauktjern friluftslivsområde",
-                                    "pdf_path": "78_section11_list2_anchor1.pdf"
+                                    "local_pdf_path": "78_section11_list2_anchor1.pdf",
+                                    "pdf_path": "https://www.ostmarkasvenner.no/getfile.php/4790042.2128.iz7mb7bbakwna7/201215_Vedlegg+-Delomra%CC%8Ade+5a_Gr%C3%A5beinsm%C3%A5sen_Trettestykk%C3%A5sen+og+5b+Puttebekken+til+vei+Hauk%C3%A5sen.pdf"
                                 }
                             }
                         }
@@ -324,7 +330,8 @@
                             "pdf_files": {
                                 "pdf_1": {
                                     "text": "Østmarkas Venners høringssvar til «Oppstartmelding vern i Østmarka» (pdf) ",
-                                    "pdf_path": "78_section15_paragraph1_anchor1.pdf"
+                                    "local_pdf_path": "78_section15_paragraph1_anchor1.pdf",
+                                    "pdf_path": "https://www.ostmarkasvenner.no/getfile.php/4789419.2128.sqtazsp7bpjlsi/201215_%C3%98V-H%C3%B8ringssvar+Oppstartmelding+vern+i+%C3%98stmarka.pdf"
                                 }
                             }
                         },
@@ -333,7 +340,8 @@
                             "pdf_files": {
                                 "pdf_1": {
                                     "text": "Nasjonalpark i Østmarka - kapittel fra boka: Hyllest til Østmarka (pdf)",
-                                    "pdf_path": "78_section15_paragraph2_anchor1.pdf"
+                                    "local_pdf_path": "78_section15_paragraph2_anchor1.pdf",
+                                    "pdf_path": "https://www.ostmarkasvenner.no/getfile.php/4789403.2128.knqkw7upmqajwn/201215_Vedlegg-Nasjonalpark+i+%C3%98stmarka+-+kapittel+fra+boka+Hyllest+til+%C3%98stmarka.pdf"
                                 }
                             }
                         },
@@ -342,7 +350,8 @@
                             "pdf_files": {
                                 "pdf_1": {
                                     "text": "Notat: Kulturminner og kulturhistorie i Østmarka (pdf)",
-                                    "pdf_path": "78_section15_paragraph3_anchor1.pdf"
+                                    "local_pdf_path": "78_section15_paragraph3_anchor1.pdf",
+                                    "pdf_path": "https://www.ostmarkasvenner.no/getfile.php/4789404.2128.ttuktmsawltsui/201215_Vedlegg-Kulturminner+%C3%98stmarka.pdf"
                                 }
                             }
                         },
@@ -351,7 +360,8 @@
                             "pdf_files": {
                                 "pdf_1": {
                                     "text": "Faktaark 1: Sandbakken – Eriksvann (pdf)",
-                                    "pdf_path": "78_section15_paragraph4_anchor1.pdf"
+                                    "local_pdf_path": "78_section15_paragraph4_anchor1.pdf",
+                                    "pdf_path": "https://www.ostmarkasvenner.no/getfile.php/4789405.2128.zm77mbplp7qjbb/201215_Vedlegg-Delomr%C3%A5de+1+Sandbakken+-+Eriksvann+mellom+kraftlinja+og+Spinneren.pdf"
                                 }
                             }
                         },
@@ -360,7 +370,8 @@
                             "pdf_files": {
                                 "pdf_1": {
                                     "text": "Faktaark 2: Langvannsbrenninga til Sør-Elvåga (pdf)",
-                                    "pdf_path": "78_section15_paragraph5_anchor1.pdf"
+                                    "local_pdf_path": "78_section15_paragraph5_anchor1.pdf",
+                                    "pdf_path": "https://www.ostmarkasvenner.no/getfile.php/4789406.2128.kbmm7wwljptuzz/201215_Vedlegg-Delomra%CC%8Ade+2+Langvannsbrenninga+Sota%CC%8Asen.pdf"
                                 }
                             }
                         },
@@ -369,7 +380,8 @@
                             "pdf_files": {
                                 "pdf_1": {
                                     "text": "Faktaark 3: Trolldalen og Trolldalsåsen (pdf)",
-                                    "pdf_path": "78_section15_paragraph6_anchor1.pdf"
+                                    "local_pdf_path": "78_section15_paragraph6_anchor1.pdf",
+                                    "pdf_path": "https://www.ostmarkasvenner.no/getfile.php/4789407.2128.bnztzlbml7wtb7/201215_Vedlegg-Delomr%C3%A5de+3+Trolldalen+og+Trolldals%C3%A5sen.pdf"
                                 }
                             }
                         },
@@ -378,7 +390,8 @@
                             "pdf_files": {
                                 "pdf_1": {
                                     "text": "Faktaark 4: Bremsrudåsen og Revehidalen (pdf)",
-                                    "pdf_path": "78_section15_paragraph7_anchor1.pdf"
+                                    "local_pdf_path": "78_section15_paragraph7_anchor1.pdf",
+                                    "pdf_path": "https://www.ostmarkasvenner.no/getfile.php/4789408.2128.ltmqwkwiwlkmij/201215_Vedlegg-Delomr%C3%A5de+4+Bremsrud%C3%A5sen+Revehidalen+Hestehol%C3%A5sen.pdf"
                                 }
                             }
                         },
@@ -387,7 +400,8 @@
                             "pdf_files": {
                                 "pdf_1": {
                                     "text": "Faktaark 5 a: Gråbeinmåsen -Trettestykkåsen (pdf)",
-                                    "pdf_path": "78_section15_paragraph8_anchor1.pdf"
+                                    "local_pdf_path": "78_section15_paragraph8_anchor1.pdf",
+                                    "pdf_path": "https://www.ostmarkasvenner.no/getfile.php/4789409.2128.njnusijuaaalzw/201215_Vedlegg-Delomra%CC%8Ade+5a_Gr%C3%A5beinsm%C3%A5sen_Trettestykk%C3%A5sen.pdf"
                                 }
                             }
                         },
@@ -396,7 +410,8 @@
                             "pdf_files": {
                                 "pdf_1": {
                                     "text": "Faktaark 5 b: Puttebekken til vei Haukåsen (pdf)",
-                                    "pdf_path": "78_section15_paragraph9_anchor1.pdf"
+                                    "local_pdf_path": "78_section15_paragraph9_anchor1.pdf",
+                                    "pdf_path": "https://www.ostmarkasvenner.no/getfile.php/4789410.2128.bzwn7sqanubzzl/201215_Vedlegg-Delomr%C3%A5de+5b+Puttebekken+til+vei+Hauk%C3%A5sen.pdf"
                                 }
                             }
                         }

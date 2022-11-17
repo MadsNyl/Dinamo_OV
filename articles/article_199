@@ -127,32 +127,38 @@
                             "pdf_files": {
                                 "pdf_1": {
                                     "text": "ØVs brev til BYM angående terrengsykling",
-                                    "pdf_path": "199_section6_paragraph2_anchor1.pdf"
+                                    "local_pdf_path": "199_section6_paragraph2_anchor1.pdf",
+                                    "pdf_path": "https://www.ostmarkasvenner.no/getfile.php/3090961.2128.tavbwbqswa/150623_Brev+%C3%98V+BYM+Terrengsykling.pdf"
                                 },
                                 "pdf_2": {
                                     "text": "Vedlegg 1 - Slitasje i Østmarka – presentasjon fra 2014",
-                                    "pdf_path": "199_section6_paragraph2_anchor2.pdf"
+                                    "local_pdf_path": "199_section6_paragraph2_anchor2.pdf",
+                                    "pdf_path": "https://www.ostmarkasvenner.no/getfile.php/3090963.2128.fvsyfayqdb/150623_Vedlegg+1-+Slitasje+i+%C3%98stmarka+%E2%80%93+presentasjon+fra+2014.pdf"
                                 },
                                 "pdf_3": {
                                     "text": "Vedlegg 2 - Fotodokumentasjon etter årets ritt",
-                                    "pdf_path": "199_section6_paragraph2_anchor3.pdf"
+                                    "local_pdf_path": "199_section6_paragraph2_anchor3.pdf",
+                                    "pdf_path": "https://www.ostmarkasvenner.no/getfile.php/3090964.2128.xrvtwvstds/150623_Vedlegg+2-+Fotodokumentasjon+etter+%C3%A5rets+ritt.pdf"
                                 },
                                 "pdf_4": {
                                     "text": "Vedlegg 3 - Kart over ØVs befaring 31. mai 2015",
-                                    "pdf_path": "199_section6_paragraph2_anchor4.pdf"
+                                    "local_pdf_path": "199_section6_paragraph2_anchor4.pdf",
+                                    "pdf_path": "https://www.ostmarkasvenner.no/getfile.php/3090965.2128.qbwpqtrdec/150623_Vedlegg+3-+Kart+over+%C3%98Vs+befaring+31.+mai+2015.pdf"
                                 },
                                 "pdf_5": {
                                     "text": "Vedlegg 4 - Kart over Terrengsykkelrittets trase 2015",
-                                    "pdf_path": "199_section6_paragraph2_anchor5.pdf"
+                                    "local_pdf_path": "199_section6_paragraph2_anchor5.pdf",
+                                    "pdf_path": "https://www.ostmarkasvenner.no/getfile.php/3090967.2128.rrxybbtsyp/150623_Vedlegg+4-+Kart+over+Terrengsykkelrittets+trase+2015.pdf"
                                 },
                                 "pdf_6": {
                                     "text": "Vedlegg 5 - Notat-Bymiljøetatens mangelfulle saksbehandling",
-                                    "pdf_path": "199_section6_paragraph2_anchor6.pdf"
+                                    "local_pdf_path": "199_section6_paragraph2_anchor6.pdf",
+                                    "pdf_path": "https://www.ostmarkasvenner.no/getfile.php/3090968.2128.pvvqwbwxsv/150623_Vedlegg+5-+Notat-Bymilj%C3%B8etatens+mangelfulle+saksbehandling.pdf"
                                 }
                             }
                         },
                         "p_3": {
-                            "text": "<a href='http://www.aftenposten.no/meninger/debatt/Svar-til-Terrengsykkelrittets-arrangorer-En-sykkelmotstanders-siste-bekjennelser-8058765.html' class='text-red-700'>En «sykkelmotstanders» siste bekjennelser</a><a href='http://www.terrengsykkel.no/Telex/NOTS-stiller-krav-til-Terrengsykkelrittet'>NOTS stiller krav til Terrengsykkelrittet</a><a href='http://www.terrengsykkel.no/Telex/forbedring-terrengsykkel2015'>Lover forbedring av Terrengsykkelrittet</a><a href='http://www.aftenposten.no/meninger/debatt/Bare-et-forbud-mot-terrengsykling-kan-redde-naturen-na-8049665.html' class='text-red-700'>Bare et forbud kan redde naturen nå</a><a href='http://www.osloby.no/nyheter/Bymiljotaten-Negative-til-sykkelforbud-i-Marka-8054889.html'>Negative til sykkelforbud i Marka</a><a href='http://www.ostmarkasvenner.no/aksjonerer-sammen-for-hensynsfull-markabruk'>Aksjonerer sammen for hensynsfull markabruk</a>",
+                            "text": " <a href='http://www.aftenposten.no/meninger/debatt/Svar-til-Terrengsykkelrittets-arrangorer-En-sykkelmotstanders-siste-bekjennelser-8058765.html' class='text-red-700'>En «sykkelmotstanders» siste bekjennelser</a> <a href='http://www.terrengsykkel.no/Telex/NOTS-stiller-krav-til-Terrengsykkelrittet'>NOTS stiller krav til Terrengsykkelrittet</a> <a href='http://www.terrengsykkel.no/Telex/forbedring-terrengsykkel2015'>Lover forbedring av Terrengsykkelrittet</a> <a href='http://www.aftenposten.no/meninger/debatt/Bare-et-forbud-mot-terrengsykling-kan-redde-naturen-na-8049665.html' class='text-red-700'>Bare et forbud kan redde naturen nå</a> <a href='http://www.osloby.no/nyheter/Bymiljotaten-Negative-til-sykkelforbud-i-Marka-8054889.html'>Negative til sykkelforbud i Marka</a> <a href='http://www.ostmarkasvenner.no/aksjonerer-sammen-for-hensynsfull-markabruk'>Aksjonerer sammen for hensynsfull markabruk</a>",
                             "pdf_files": {}
                         }
                     },

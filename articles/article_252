@@ -26,7 +26,7 @@
                             "pdf_files": {}
                         },
                         "p_2": {
-                            "text": "– Dette er en av de beste Østmarka-nyhetene jeg har hørt på lenge. I disse områdene skal stillheten råde, og skogen skal få utvikle seg fritt. Dermed slipper vi stadige kamper mot hjulspor og hogstmaskiner, sier Ellingsen, som har sommerens <a href='http://www.ostmarkasvenner.no/ostmarkas-venner-krever-stopp-i-paagaaende-hogst-ved-sondre-dal'>hogst ved Søndre Dal</a> friskt i minnet.",
+                            "text": "– Dette er en av de beste Østmarka-nyhetene jeg har hørt på lenge. I disse områdene skal stillheten råde, og skogen skal få utvikle seg fritt. Dermed slipper vi stadige kamper mot hjulspor og hogstmaskiner, sier Ellingsen, som har sommerens  <a href='http://www.ostmarkasvenner.no/ostmarkas-venner-krever-stopp-i-paagaaende-hogst-ved-sondre-dal'>hogst ved Søndre Dal</a> friskt i minnet.",
                             "pdf_files": {}
                         },
                         "p_3": {
@@ -106,7 +106,7 @@
                     "header": "Linker:",
                     "paragraphs": {
                         "p_1": {
-                            "text": "<a href='http://www.fylkesmannen.no/Oslo-og-Akershus/Miljo-og-klima/Nyheter/Gjor-historisk-vedtak-om-vern/' class='text-red-700'>Fylkesmannens pressemelding: Gjør historisk vedtak om vern</a>",
+                            "text": " <a href='http://www.fylkesmannen.no/Oslo-og-Akershus/Miljo-og-klima/Nyheter/Gjor-historisk-vedtak-om-vern/' class='text-red-700'>Fylkesmannens pressemelding: Gjør historisk vedtak om vern</a>",
                             "pdf_files": {}
                         },
                         "p_2": {
@@ -114,7 +114,8 @@
                             "pdf_files": {
                                 "pdf_1": {
                                     "text": "Fylkesmannens faktaark om Hauktjern",
-                                    "pdf_path": "252_section5_paragraph2_anchor1.pdf"
+                                    "local_pdf_path": "252_section5_paragraph2_anchor1.pdf",
+                                    "pdf_path": "https://www.ostmarkasvenner.nohttp://www.fylkesmannen.no/Documents/Dokument%20FMOA/Milj%C3%B8%20og%20klima/Marka/Faktaark%20om%20Hauktjern.pdf?epslanguage=nb"
                                 }
                             }
                         },
@@ -123,16 +124,17 @@
                             "pdf_files": {
                                 "pdf_1": {
                                     "text": "Fylkemannens faktaark om Spinneren",
-                                    "pdf_path": "252_section5_paragraph3_anchor1.pdf"
+                                    "local_pdf_path": "252_section5_paragraph3_anchor1.pdf",
+                                    "pdf_path": "https://www.ostmarkasvenner.nohttp://www.fylkesmannen.no/Documents/Dokument%20FMOA/Milj%C3%B8%20og%20klima/Marka/Faktaark%20om%20Spinneren.pdf?epslanguage=nb"
                                 }
                             }
                         },
                         "p_4": {
-                            "text": "<a href='http://www.regjeringen.no/nb/dep/md/pressesenter/pressemeldinger/2013/historisk-vern-i-oslomarka.html?id=737405'>Miljøverndepartementets pressemelding: Historisk vern i Oslomarka</a><a href='http://www.ostmarkasvenner.no/friluftsomraadene-hauktjern-og-spinneren-vernes-i-sommer'>ØVs informasjon om verneområdene i Østmarka</a>",
+                            "text": " <a href='http://www.regjeringen.no/nb/dep/md/pressesenter/pressemeldinger/2013/historisk-vern-i-oslomarka.html?id=737405'>Miljøverndepartementets pressemelding: Historisk vern i Oslomarka</a> <a href='http://www.ostmarkasvenner.no/friluftsomraadene-hauktjern-og-spinneren-vernes-i-sommer'>ØVs informasjon om verneområdene i Østmarka</a>",
                             "pdf_files": {}
                         },
                         "p_5": {
-                            "text": "<a href='http://www.ostmarkasvenner.no/spinneren-naturbasert-spenning-framfor-hoy-fart'>Reportasje om Spinneren i Østlandets Blad</a>",
+                            "text": " <a href='http://www.ostmarkasvenner.no/spinneren-naturbasert-spenning-framfor-hoy-fart'>Reportasje om Spinneren i Østlandets Blad</a>",
                             "pdf_files": {}
                         }
                     },

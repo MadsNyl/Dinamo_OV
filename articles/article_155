@@ -78,7 +78,7 @@
                     "header": "En opplagt julegave",
                     "paragraphs": {
                         "p_1": {
-                            "text": "Even Saugstad lanserte sin rykende ferske bok onsdag 26. oktober, med foredrag i Norsk Folkehjelps hytte ved Nøklevann. Deretter gikk forfatteren og en gruppe Østmarka-venner veien inn til Sarabråten, med korte stopp ved severdigheter som <a href='https://www.ostmarkasvenner.no/korketrekkeren-aapner-for-jul'>Korketrekkeren</a>, Lutvann kafe og den bratte bakken Mærrapina. Boka kommer også til å bli presentert ved flere anledninger framover.",
+                            "text": "Even Saugstad lanserte sin rykende ferske bok onsdag 26. oktober, med foredrag i Norsk Folkehjelps hytte ved Nøklevann. Deretter gikk forfatteren og en gruppe Østmarka-venner veien inn til Sarabråten, med korte stopp ved severdigheter som  <a href='https://www.ostmarkasvenner.no/korketrekkeren-aapner-for-jul'>Korketrekkeren</a>, Lutvann kafe og den bratte bakken Mærrapina. Boka kommer også til å bli presentert ved flere anledninger framover.",
                             "pdf_files": {}
                         },
                         "p_2": {
@@ -94,11 +94,11 @@
                     "header": "Mer informasjon:",
                     "paragraphs": {
                         "p_1": {
-                            "text": "<a href='http://www.frie-fugler.no/'>Boka «Sarabråten – godset i skogen» er utgitt på Frie Fuglers forlag</a>",
+                            "text": " <a href='http://www.frie-fugler.no/'>Boka «Sarabråten – godset i skogen» er utgitt på Frie Fuglers forlag</a>",
                             "pdf_files": {}
                         },
                         "p_2": {
-                            "text": "<a href='http://www.ostmarkasvenner.no/hyllest-til-ostmarka-i-ord-bilder-og-toner'>Lanseringen av ØVs jubileumsbok «Hyllest til Østmarka» 8. november</a>",
+                            "text": " <a href='http://www.ostmarkasvenner.no/hyllest-til-ostmarka-i-ord-bilder-og-toner'>Lanseringen av ØVs jubileumsbok «Hyllest til Østmarka» 8. november</a>",
                             "pdf_files": {}
                         }
                     },

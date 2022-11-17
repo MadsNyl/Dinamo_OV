@@ -22,7 +22,8 @@
                             "pdf_files": {
                                 "pdf_1": {
                                     "text": "dette notatet",
-                                    "pdf_path": "426_section1_extra_anchor2.pdf"
+                                    "local_pdf_path": "426_section1_extra_anchor2.pdf",
+                                    "pdf_path": "https://www.ostmarkasvenner.nogetfile.php/2026389.2128.yeexarudyu/skytebanenotat.pdf"
                                 }
                             }
                         }

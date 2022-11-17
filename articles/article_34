@@ -194,15 +194,15 @@
                     "header": "Mer informasjon:",
                     "paragraphs": {
                         "p_1": {
-                            "text": "Østmarkas Venner: <a href='https://www.ostmarkasvenner.no/sigmund-haagvar-har-faatt-biologenes-hederspris'>Sigmund Hågvar har fått biologenes hederspris</a>. Publisert 15.11 2021",
+                            "text": "Østmarkas Venner:  <a href='https://www.ostmarkasvenner.no/sigmund-haagvar-har-faatt-biologenes-hederspris'>Sigmund Hågvar har fått biologenes hederspris</a>. Publisert 15.11 2021",
                             "pdf_files": {}
                         },
                         "p_2": {
-                            "text": "Liz Buer: <a href='https://psykiskhelse.no/bladet/2020/natursorg-0520'>Natursorg: – Snu fortvilelse til mening</a>. Publisert av Psykisk helse, 14.12 2020",
+                            "text": "Liz Buer:  <a href='https://psykiskhelse.no/bladet/2020/natursorg-0520'>Natursorg: – Snu fortvilelse til mening</a>. Publisert av Psykisk helse, 14.12 2020",
                             "pdf_files": {}
                         },
                         "p_3": {
-                            "text": "Sigmund Hågvar: <a href='https://www.verdidebatt.no/innlegg/11751463-nar-naturen-taper' class='text-red-700'>Når naturen taper</a>. Publisert av Vårt Land, 09.04 2019",
+                            "text": "Sigmund Hågvar:  <a href='https://www.verdidebatt.no/innlegg/11751463-nar-naturen-taper' class='text-red-700'>Når naturen taper</a>. Publisert av Vårt Land, 09.04 2019",
                             "pdf_files": {}
                         }
                     },
@@ -211,6 +211,6 @@
             },
             "attachments": {}
         },
-        "new_slug": "-naturopplevelser-bor-respekteres-paa-linje-med-arter-og-naturtyper"
+        "new_slug": "naturopplevelser-bor-respekteres-paa-linje-med-arter-og-naturtyper"
     }
 }

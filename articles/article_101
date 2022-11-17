@@ -242,16 +242,17 @@
                             "pdf_files": {
                                 "pdf_1": {
                                     "text": "Acid rain – a strong external driver that has suppressed water colour variability between lakes.",
-                                    "pdf_path": "101_section11_paragraph5_anchor1.pdf"
+                                    "local_pdf_path": "101_section11_paragraph5_anchor1.pdf",
+                                    "pdf_path": "https://www.ostmarkasvenner.nohttp://www.borenv.net/BER/pdfs/ber23/ber23-069-081.pdf"
                                 }
                             }
                         },
                         "p_6": {
-                            "text": "Anastasija Isidorova, Andrea G. Bravo, Gunnhild Riise, Sylvain Bouchet, Erik Björn, Sebastian Sobek: <a href='https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2015JG003086' class='text-red-700'>The effect of lake browning and respiration mode on the burial and fate of carbon and mercury in the sediment of two boreal lakes.</a> JGR Biosciences Volume 21, Issue 1. January 2016.",
+                            "text": "Anastasija Isidorova, Andrea G. Bravo, Gunnhild Riise, Sylvain Bouchet, Erik Björn, Sebastian Sobek:  <a href='https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2015JG003086' class='text-red-700'>The effect of lake browning and respiration mode on the burial and fate of carbon and mercury in the sediment of two boreal lakes.</a> JGR Biosciences Volume 21, Issue 1. January 2016.",
                             "pdf_files": {}
                         },
                         "p_7": {
-                            "text": "Dag Hongve, Gunnhild Riise, Jan F. Kristiansen: <a href='https://link.springer.com/article/10.1007/s00027-004-0708-7'>Increased colour and organic acid concentrations in Norwegian forest lakes and drinking water – a result of increased precipitation?</a> J.F. Aquat. Sci. (2004) 66: 231.",
+                            "text": "Dag Hongve, Gunnhild Riise, Jan F. Kristiansen:  <a href='https://link.springer.com/article/10.1007/s00027-004-0708-7'>Increased colour and organic acid concentrations in Norwegian forest lakes and drinking water – a result of increased precipitation?</a> J.F. Aquat. Sci. (2004) 66: 231.",
                             "pdf_files": {}
                         }
                     },

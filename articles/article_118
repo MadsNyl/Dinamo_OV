@@ -150,7 +150,7 @@
                     "header": null,
                     "paragraphs": {
                         "p_1": {
-                            "text": "Østmarkas Venner inviterer søndag 21. oktober til en guidet tur i den foreslåtte nasjonalparken i Østmarka. Turen starter fra Bysetermåsan. <a href='https://www.ostmarkasvenner.no/guidet-tur-i-den-foreslaatte-nasjonalparken-i-ostmarka'>Les mer om turen her.</a>",
+                            "text": "Østmarkas Venner inviterer søndag 21. oktober til en guidet tur i den foreslåtte nasjonalparken i Østmarka. Turen starter fra Bysetermåsan.  <a href='https://www.ostmarkasvenner.no/guidet-tur-i-den-foreslaatte-nasjonalparken-i-ostmarka'>Les mer om turen her.</a>",
                             "pdf_files": {}
                         }
                     },
@@ -162,11 +162,11 @@
                     "header": "Les mer på ØVs nettsider:",
                     "paragraphs": {
                         "p_1": {
-                            "text": "<a href='https://www.ostmarkasvenner.no/ola-elvestuen-onsker-nasjonalpark-i-ostmarka-saa-snart-som-mulig'>Ola Elvestuen ønsker nasjonalpark i Østmarka så snart som mulig</a>",
+                            "text": " <a href='https://www.ostmarkasvenner.no/ola-elvestuen-onsker-nasjonalpark-i-ostmarka-saa-snart-som-mulig'>Ola Elvestuen ønsker nasjonalpark i Østmarka så snart som mulig</a>",
                             "pdf_files": {}
                         },
                         "p_2": {
-                            "text": "<a href='https://www.ostmarkasvenner.no/elvestuen-tar-viktig-skritt-paa-veien-til-nasjonalpark-i-ostmarka'>Elvestuen tar viktig skritt på veien til nasjonalpark i Østmarka</a>",
+                            "text": " <a href='https://www.ostmarkasvenner.no/elvestuen-tar-viktig-skritt-paa-veien-til-nasjonalpark-i-ostmarka'>Elvestuen tar viktig skritt på veien til nasjonalpark i Østmarka</a>",
                             "pdf_files": {}
                         },
                         "p_3": {
@@ -174,7 +174,8 @@
                             "pdf_files": {
                                 "pdf_1": {
                                     "text": "ØVs brosjyre «Ja til nasjonalpark i Østmarka» (pdf)",
-                                    "pdf_path": "118_section10_paragraph3_anchor1.pdf"
+                                    "local_pdf_path": "118_section10_paragraph3_anchor1.pdf",
+                                    "pdf_path": "https://www.ostmarkasvenner.no/getfile.php/2578001.2128.fcpeqbdfcb/JA+til+nasjonalpark+i+%C3%98stmarka.pdf"
                                 }
                             }
                         }

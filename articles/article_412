@@ -34,7 +34,7 @@
             },
             "attachments": {
                 "attachment_1": {
-                    "text": "<a href='http://scandlynx.nina.no/'>Les mer om NINA prosjektet og følg de radiomerkede gaupene i Østmarka her.</a>",
+                    "text": " <a href='http://scandlynx.nina.no/'>Les mer om NINA prosjektet og følg de radiomerkede gaupene i Østmarka her.</a>",
                     "pdf": {}
                 }
             }

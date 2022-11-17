@@ -45,15 +45,15 @@
                     }
                 },
                 "attachment_2": {
-                    "text": "<a href='http://www.nrk.no/nyheter/distrikt/nrk_ostlandssendingen/5333357.html' class='text-red-700'>NYhetsoppslag i NRK Østlandssendingen</a>",
+                    "text": " <a href='http://www.nrk.no/nyheter/distrikt/nrk_ostlandssendingen/5333357.html' class='text-red-700'>NYhetsoppslag i NRK Østlandssendingen</a>",
                     "pdf": {}
                 },
                 "attachment_3": {
-                    "text": "<a href='http://www.groruddalen.no/cparticle291978-17469.html' class='text-red-700'>Oppslag i Akers avis Groruddalen</a>",
+                    "text": " <a href='http://www.groruddalen.no/cparticle291978-17469.html' class='text-red-700'>Oppslag i Akers avis Groruddalen</a>",
                     "pdf": {}
                 },
                 "attachment_4": {
-                    "text": "<a href='http://www.rb.no/lokale_nyheter/article1791165.ece'>Nyhetsoppslag i Romerikes blad</a>",
+                    "text": " <a href='http://www.rb.no/lokale_nyheter/article1791165.ece'>Nyhetsoppslag i Romerikes blad</a>",
                     "pdf": {}
                 }
             }

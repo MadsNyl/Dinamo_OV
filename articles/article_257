@@ -26,7 +26,7 @@
                             "pdf_files": {}
                         },
                         "p_2": {
-                            "text": "Østlandets Blad (ØB) har vært på tur i Spinneren-området med rådgiver Live Danielsen i <a href='http://www.naturoppsyn.no/'>Statens Naturoppsyn (SNO)</a>, og artikkelen gir leserne et godt innsyn i grunnen til at dette er et område som fortjener vern.",
+                            "text": "Østlandets Blad (ØB) har vært på tur i Spinneren-området med rådgiver Live Danielsen i  <a href='http://www.naturoppsyn.no/'>Statens Naturoppsyn (SNO)</a>, og artikkelen gir leserne et godt innsyn i grunnen til at dette er et område som fortjener vern.",
                             "pdf_files": {}
                         },
                         "p_3": {
@@ -58,7 +58,8 @@
                             "pdf_files": {
                                 "pdf_1": {
                                     "text": "her",
-                                    "pdf_path": "257_section2_paragraph4_anchor1.pdf"
+                                    "local_pdf_path": "257_section2_paragraph4_anchor1.pdf",
+                                    "pdf_path": "https://www.ostmarkasvenner.no/getfile.php/2369219.2128.uebqqsfpqd/Oppslag ØB Spinneren.pdf"
                                 }
                             }
                         }

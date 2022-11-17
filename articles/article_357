@@ -6,7 +6,7 @@
         "header": "Enebakk som fanesak",
         "ingress": {
             "image": {},
-            "text": "Østmarkas venner vil kjempe for tilgangen til marka. Artikkel i <a href='http://www.enebakkavis.no/nyheter/article4241462.ece'>Enebakk Avis</a>.",
+            "text": "Østmarkas venner vil kjempe for tilgangen til marka. Artikkel i  <a href='http://www.enebakkavis.no/nyheter/article4241462.ece'>Enebakk Avis</a>.",
             "pdf_files": {}
         },
         "author": "Webmaster",

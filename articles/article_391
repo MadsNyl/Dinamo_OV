@@ -25,7 +25,7 @@
             },
             "attachments": {
                 "attachment_1": {
-                    "text": "<a href='http://www.rb.no/lokale_nyheter/article2583738.ece'>Les mer i RB</a>",
+                    "text": " <a href='http://www.rb.no/lokale_nyheter/article2583738.ece'>Les mer i RB</a>",
                     "pdf": {}
                 }
             }

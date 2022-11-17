@@ -38,11 +38,12 @@
                     "header": "– Viktig og gledelig nyhet",
                     "paragraphs": {
                         "p_1": {
-                            "text": "– Østmarka er et av Oslos viktigste friluftsområder. Derfor ønsker vi at så mange som mulig kommer med sine innspill og tanker for å verne deler av Østmarka som nasjonalpark, sier fylkesmann i Oslo og Viken, Valgerd Svarstad Haugland, i en <a href='https://www.fylkesmannen.no/nb/oslo-og-viken/miljo-og-klima/nyttvern/nasjonalpark-i-ostmarka2/onsker-innspill-om-ostmarka/?fbclid=IwAR03oQIc1H6ALMob8Iax4Rjh6igdDRuncN6oKDf5NmsbwTZN3obfxpfYFbo'>pressemelding</a> som ble offentligjort 7. oktober. Fylkesmannen har også publisert en <a href='https://spark.adobe.com/page/1Pj5JGUgUti9H/'>visuell presentasjon</a> og et mer utfyllende dokument om saken.",
+                            "text": "– Østmarka er et av Oslos viktigste friluftsområder. Derfor ønsker vi at så mange som mulig kommer med sine innspill og tanker for å verne deler av Østmarka som nasjonalpark, sier fylkesmann i Oslo og Viken, Valgerd Svarstad Haugland, i en  <a href='https://www.fylkesmannen.no/nb/oslo-og-viken/miljo-og-klima/nyttvern/nasjonalpark-i-ostmarka2/onsker-innspill-om-ostmarka/?fbclid=IwAR03oQIc1H6ALMob8Iax4Rjh6igdDRuncN6oKDf5NmsbwTZN3obfxpfYFbo'>pressemelding</a> som ble offentligjort 7. oktober. Fylkesmannen har også publisert en  <a href='https://spark.adobe.com/page/1Pj5JGUgUti9H/'>visuell presentasjon</a> og et mer utfyllende dokument om saken.",
                             "pdf_files": {
                                 "pdf_1": {
                                     "text": "mer utfyllende dokument",
-                                    "pdf_path": "83_section2_paragraph1_anchor3.pdf"
+                                    "local_pdf_path": "83_section2_paragraph1_anchor3.pdf",
+                                    "pdf_path": "https://www.ostmarkasvenner.nohttps://www.fylkesmannen.no/globalassets/fm-oslo-og-viken/miljo-og-klima/nasjonalparker/ostmarka/dokumenter/ostmarka-nasjonalpark-oppstartsmelding.pdf"
                                 }
                             }
                         }
@@ -209,11 +210,11 @@
                     "header": "Les mer:",
                     "paragraphs": {
                         "p_1": {
-                            "text": "Fylkesmannens pressemelding: <a href='https://www.fylkesmannen.no/nb/oslo-og-viken/miljo-og-klima/nyttvern/nasjonalpark-i-ostmarka2/onsker-innspill-om-ostmarka/?fbclid=IwAR03oQIc1H6ALMob8Iax4Rjh6igdDRuncN6oKDf5NmsbwTZN3obfxpfYFbo'>Ønsker innspill om Østmarka.</a> Publisert 07.10 2020",
+                            "text": "Fylkesmannens pressemelding:  <a href='https://www.fylkesmannen.no/nb/oslo-og-viken/miljo-og-klima/nyttvern/nasjonalpark-i-ostmarka2/onsker-innspill-om-ostmarka/?fbclid=IwAR03oQIc1H6ALMob8Iax4Rjh6igdDRuncN6oKDf5NmsbwTZN3obfxpfYFbo'>Ønsker innspill om Østmarka.</a> Publisert 07.10 2020",
                             "pdf_files": {}
                         },
                         "p_2": {
-                            "text": "<a href='https://spark.adobe.com/page/1Pj5JGUgUti9H/'>Fylkesmannens visuelle presentasjon om Østmarka</a>",
+                            "text": " <a href='https://spark.adobe.com/page/1Pj5JGUgUti9H/'>Fylkesmannens visuelle presentasjon om Østmarka</a>",
                             "pdf_files": {}
                         },
                         "p_3": {
@@ -221,12 +222,13 @@
                             "pdf_files": {
                                 "pdf_1": {
                                     "text": "Fylkesmannens offisielle melding om oppstart av verneplanarbeid.",
-                                    "pdf_path": "83_section8_paragraph3_anchor1.pdf"
+                                    "local_pdf_path": "83_section8_paragraph3_anchor1.pdf",
+                                    "pdf_path": "https://www.ostmarkasvenner.nohttps://www.fylkesmannen.no/globalassets/fm-oslo-og-viken/miljo-og-klima/nasjonalparker/ostmarka/dokumenter/ostmarka-nasjonalpark-oppstartsmelding.pdf"
                                 }
                             }
                         },
                         "p_4": {
-                            "text": "Østmarkas Venner: <a href='https://www.ostmarkasvenner.no/-alle-skal-faa-si-sin-mening-om-nasjonalparken'>– Alle skal få si sin mening om nasjonalparken.</a> Publisert 25. februar 2020",
+                            "text": "Østmarkas Venner:  <a href='https://www.ostmarkasvenner.no/-alle-skal-faa-si-sin-mening-om-nasjonalparken'>– Alle skal få si sin mening om nasjonalparken.</a> Publisert 25. februar 2020",
                             "pdf_files": {}
                         }
                     },

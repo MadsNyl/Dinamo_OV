@@ -264,7 +264,8 @@
                             "pdf_files": {
                                 "pdf_1": {
                                     "text": "her",
-                                    "pdf_path": "149_section12_paragraph1_anchor1.pdf"
+                                    "local_pdf_path": "149_section12_paragraph1_anchor1.pdf",
+                                    "pdf_path": "https://www.ostmarkasvenner.no/getfile.php/3753927.2128.dtxqeyweeb/FMOA+Brev+BYM+Befaring.pdf"
                                 }
                             }
                         }

@@ -34,7 +34,7 @@
             },
             "attachments": {
                 "attachment_1": {
-                    "text": "<a href='/getfile.php/2015816.2128.uqtxedbepa/20110507vaartur.jpeg' class='text-red-700'>Se invitasjon her</a>",
+                    "text": " <a href='/getfile.php/2015816.2128.uqtxedbepa/20110507vaartur.jpeg' class='text-red-700'>Se invitasjon her</a>",
                     "pdf": {}
                 }
             }

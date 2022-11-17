@@ -114,7 +114,7 @@
                     "header": "Les mer:",
                     "paragraphs": {
                         "p_1": {
-                            "text": "Du kan lese om fjorårets jubileumsarrangement <a href='https://www.ostmarkasvenner.no/dobbeltjubileum-for-milorg-bautaen-paa-sarabraaten'>her</a>.",
+                            "text": "Du kan lese om fjorårets jubileumsarrangement  <a href='https://www.ostmarkasvenner.no/dobbeltjubileum-for-milorg-bautaen-paa-sarabraaten'>her</a>.",
                             "pdf_files": {}
                         }
                     },
@@ -123,6 +123,6 @@
             },
             "attachments": {}
         },
-        "new_slug": "-motstandskampen-under-annen-verdenskrig-er-fortsatt-dagsaktuell"
+        "new_slug": "motstandskampen-under-annen-verdenskrig-er-fortsatt-dagsaktuell"
     }
 }

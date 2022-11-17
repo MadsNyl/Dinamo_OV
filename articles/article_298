@@ -26,7 +26,8 @@
                             "pdf_files": {
                                 "pdf_1": {
                                     "text": "her",
-                                    "pdf_path": "298_section1_extra_anchor1.pdf"
+                                    "local_pdf_path": "298_section1_extra_anchor1.pdf",
+                                    "pdf_path": "https://www.ostmarkasvenner.nogetfile.php/2028124.2128.wqbasqtsyq/Sarabraten-dugnad-inb12-9.pdf"
                                 }
                             }
                         }

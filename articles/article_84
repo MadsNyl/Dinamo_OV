@@ -126,7 +126,8 @@
                             "pdf_files": {
                                 "pdf_1": {
                                     "text": "ØVs høringsuttalelse kan leses her.",
-                                    "pdf_path": "84_section6_paragraph1_anchor1.pdf"
+                                    "local_pdf_path": "84_section6_paragraph1_anchor1.pdf",
+                                    "pdf_path": "https://www.ostmarkasvenner.no/getfile.php/4745421.2128.u7suiqkspalwmt/200824_%C3%98V-H%C3%B8ringsinnspill+varslet+oppstart+stamnettprosjektet.pdf"
                                 }
                             }
                         }

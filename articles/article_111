@@ -90,7 +90,7 @@
                     "header": null,
                     "paragraphs": {
                         "p_1": {
-                            "text": "Reportasjen og lederartikkelen i papirutgaven av Enebakk Avis er tilgjengelig på nettet, bak en betalingsmur. Her: <a href='https://www.enebakkavis.no/vis/utgaver/eavis/' class='text-red-700'>https://www.enebakkavis.no/vis/utgaver/eavis/</a>",
+                            "text": "Reportasjen og lederartikkelen i papirutgaven av Enebakk Avis er tilgjengelig på nettet, bak en betalingsmur. Her:  <a href='https://www.enebakkavis.no/vis/utgaver/eavis/' class='text-red-700'>https://www.enebakkavis.no/vis/utgaver/eavis/</a>",
                             "pdf_files": {}
                         }
                     },

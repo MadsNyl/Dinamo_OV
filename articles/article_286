@@ -26,7 +26,7 @@
                             "pdf_files": {}
                         },
                         "p_2": {
-                            "text": "Ved å gi bort et medlemskap er du med på å støtte vårt arbeid for Østmarka, samtidig som mottaker får god og nyttig informasjon om Østmarka gjennom vårt medlemsblad \"<a href='index.php?cat=260685' class='text-red-700'>Nytt fra Østmarka</a>\"4 ganger per år.",
+                            "text": "Ved å gi bort et medlemskap er du med på å støtte vårt arbeid for Østmarka, samtidig som mottaker får god og nyttig informasjon om Østmarka gjennom vårt medlemsblad \" <a href='index.php?cat=260685' class='text-red-700'>Nytt fra Østmarka</a>\"4 ganger per år.",
                             "pdf_files": {}
                         },
                         "p_3": {
@@ -34,7 +34,7 @@
                             "pdf_files": {}
                         },
                         "p_4": {
-                            "text": "Gavekortet finner du<a href='getfile.php/2143103.2128.bqectquvrs/Gavekort+Jul+10x15.jpg' class='text-red-700'>her</a>. Det anbefales å skrive ut gavekortet på et 10x15 fotopapir; velg gjerne hvit kant rundt.",
+                            "text": "Gavekortet finner du <a href='getfile.php/2143103.2128.bqectquvrs/Gavekort+Jul+10x15.jpg' class='text-red-700'>her</a>. Det anbefales å skrive ut gavekortet på et 10x15 fotopapir; velg gjerne hvit kant rundt.",
                             "pdf_files": {}
                         },
                         "p_5": {
@@ -42,7 +42,7 @@
                             "pdf_files": {}
                         },
                         "p_6": {
-                            "text": "Eventuelle spørsmål om medlemskap og melding om adresseforandring kan rettes til<a href='mailto:monica@ostmarkasvenner.no' class='text-red-700'>Monica Hoel</a>, eller per post til Østmarkas Venner, Postboks 37 Haugerud, 0616 Oslo.",
+                            "text": "Eventuelle spørsmål om medlemskap og melding om adresseforandring kan rettes til <a href='mailto:monica@ostmarkasvenner.no' class='text-red-700'>Monica Hoel</a>, eller per post til Østmarkas Venner, Postboks 37 Haugerud, 0616 Oslo.",
                             "pdf_files": {}
                         }
                     }

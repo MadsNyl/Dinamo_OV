@@ -178,7 +178,7 @@
                             "pdf_files": {}
                         },
                         "p_4": {
-                            "text": "Du kan lese hele intervjuet i medlemsbladet vårt, Nytt fra Østmarka, som også inneholder flere andre artikler om Sverre og hans livsverk. Våre ca. 4000 medlemmer har fått medlemsbladet tilsendt i posten. Hvis du <a href='https://www.ostmarkasvenner.no/bli-m'>melder deg inn i Østmarkas Venner</a>, kan vi sende deg medlemsbladet i posten.",
+                            "text": "Du kan lese hele intervjuet i medlemsbladet vårt, Nytt fra Østmarka, som også inneholder flere andre artikler om Sverre og hans livsverk. Våre ca. 4000 medlemmer har fått medlemsbladet tilsendt i posten. Hvis du  <a href='https://www.ostmarkasvenner.no/bli-m'>melder deg inn i Østmarkas Venner</a>, kan vi sende deg medlemsbladet i posten.",
                             "pdf_files": {}
                         }
                     },
@@ -187,6 +187,6 @@
             },
             "attachments": {}
         },
-        "new_slug": "-det-er-naturen-og-marka-som-har-formet-meg"
+        "new_slug": "det-er-naturen-og-marka-som-har-formet-meg"
     }
 }

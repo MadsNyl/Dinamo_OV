@@ -46,7 +46,7 @@
                             "pdf_files": {}
                         },
                         "p_2": {
-                            "text": "Vegetasjonen er dominert av furuskog som preger områdene rundt myrene og på de tørrere kollene. I de mer fuktige drågene, og i Trolldalen, dominerer granskogen. I store deler av området er skogen mellom 80-120 år gammel (naturskog), og på åsryggene er det mange spennende og krokete furutrær. Av rødlistete arter i Trolldalen finnes den sjeldne mosearten<a href='https://www.artsdatabanken.no/Taxon/Buxbaumia%20viridis/104146'>grønnsko</a>, orkideen<a href='https://snl.no/huldreblom'>huldreblom</a>og soppen<a href='https://www.artsdatabanken.no/Taxon/Phellinus_viticola/56627'>hyllekjuke</a>. Ellers i området finnes også<a href='https://snl.no/br%C3%A5testorkenebb'>bråtestorkenebb</a>og tre forekomster av<a href='https://artsdatabanken.no/taxon/Antrodiella%20citrinella/57101'>gul snyltekjuke</a>.",
+                            "text": "Vegetasjonen er dominert av furuskog som preger områdene rundt myrene og på de tørrere kollene. I de mer fuktige drågene, og i Trolldalen, dominerer granskogen. I store deler av området er skogen mellom 80-120 år gammel (naturskog), og på åsryggene er det mange spennende og krokete furutrær. Av rødlistete arter i Trolldalen finnes den sjeldne mosearten <a href='https://www.artsdatabanken.no/Taxon/Buxbaumia%20viridis/104146'>grønnsko</a>, orkideen <a href='https://snl.no/huldreblom'>huldreblom</a>og soppen <a href='https://www.artsdatabanken.no/Taxon/Phellinus_viticola/56627'>hyllekjuke</a>. Ellers i området finnes også <a href='https://snl.no/br%C3%A5testorkenebb'>bråtestorkenebb</a>og tre forekomster av <a href='https://artsdatabanken.no/taxon/Antrodiella%20citrinella/57101'>gul snyltekjuke</a>.",
                             "pdf_files": {}
                         }
                     },
@@ -78,7 +78,7 @@
                             "pdf_files": {}
                         },
                         "p_2": {
-                            "text": "ØV leverte i desember 2020 en omfattende høringsuttalelse til Fylkesmannen i Oslo og Viken (nå Statsforvalteren). Uttalelsen bygde på flere grundige befaringer i Østmarka og inneholder argumenter for en nasjonalpark og andre verneformer i Østmarka. Du kan lese et faktaark om Trolldalen og Trolldalsåsen via<a href='https://www.ostmarkasvenner.no/getfile.php/4789407.2128.bnztzlbml7wtb7/201215_Vedlegg-Delomr%C3%A5de+3+Trolldalen+og+Trolldals%C3%A5sen.pdf' class='text-inidigo-700'>denne linken</a>. Her finner du blant annet bilder, link til<a href='https://miljoatlas.miljodirektoratet.no/KlientFull.htm?ma=481F9'>kart over området</a>og informasjon om verdifulle naturtyper og truede arter.",
+                            "text": "ØV leverte i desember 2020 en omfattende høringsuttalelse til Fylkesmannen i Oslo og Viken (nå Statsforvalteren). Uttalelsen bygde på flere grundige befaringer i Østmarka og inneholder argumenter for en nasjonalpark og andre verneformer i Østmarka. Du kan lese et faktaark om Trolldalen og Trolldalsåsen via <a href='https://www.ostmarkasvenner.no/getfile.php/4789407.2128.bnztzlbml7wtb7/201215_Vedlegg-Delomr%C3%A5de+3+Trolldalen+og+Trolldals%C3%A5sen.pdf' class='text-inidigo-700'>denne linken</a>. Her finner du blant annet bilder, link til <a href='https://miljoatlas.miljodirektoratet.no/KlientFull.htm?ma=481F9'>kart over området</a>og informasjon om verdifulle naturtyper og truede arter.",
                             "pdf_files": {}
                         },
                         "p_3": {
@@ -94,11 +94,11 @@
                     "header": "Mer informasjon",
                     "paragraphs": {
                         "p_1": {
-                            "text": "ØVs hele høringsuttalelse: <a href='https://www.ostmarkasvenner.no/ostmarka-maa-bli-nasjonalpark-og-vernes-for-friluftslivet'>Østmarka må bli nasjonalpark og vernes for friluftslivet.</a> Publisert 17/12 2020",
+                            "text": "ØVs hele høringsuttalelse:  <a href='https://www.ostmarkasvenner.no/ostmarka-maa-bli-nasjonalpark-og-vernes-for-friluftslivet'>Østmarka må bli nasjonalpark og vernes for friluftslivet.</a> Publisert 17/12 2020",
                             "pdf_files": {}
                         },
                         "p_2": {
-                            "text": "Rapport fra NINA: <a href='https://www.ostmarkasvenner.no/-ostmarka-omraadet-oppfyller-kriteriene-for-en-nasjonalpark'>– Østmarka-området oppfyller kriteriene for en nasjonalpark</a>. Publisert 5/2 2021",
+                            "text": "Rapport fra NINA:  <a href='https://www.ostmarkasvenner.no/-ostmarka-omraadet-oppfyller-kriteriene-for-en-nasjonalpark'>– Østmarka-området oppfyller kriteriene for en nasjonalpark</a>. Publisert 5/2 2021",
                             "pdf_files": {}
                         }
                     },
@@ -107,6 +107,6 @@
             },
             "attachments": {}
         },
-        "new_slug": "-trolsk-naturskjont-rikt-paa-kontraster"
+        "new_slug": "trolsk-naturskjont-rikt-paa-kontraster"
     }
 }

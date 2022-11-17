@@ -14,7 +14,7 @@
             "sections": {},
             "attachments": {
                 "attachment_1": {
-                    "text": "<a href='http://www.dagsavisen.no/innenriks/article1206422.ece' class='text-red-700'>Les mer i Dagsavisen</a>",
+                    "text": " <a href='http://www.dagsavisen.no/innenriks/article1206422.ece' class='text-red-700'>Les mer i Dagsavisen</a>",
                     "pdf": {}
                 }
             }

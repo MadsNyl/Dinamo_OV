@@ -30,12 +30,13 @@
                             "pdf_files": {
                                 "pdf_1": {
                                     "text": "her",
-                                    "pdf_path": "218_section1_extra_anchor2.pdf"
+                                    "local_pdf_path": "218_section1_extra_anchor2.pdf",
+                                    "pdf_path": "https://www.ostmarkasvenner.no/getfile.php/2835645.2128.taxtutafvs/Naturarv+skaper+verdier+TF+Rapport+351+2014.pdf"
                                 }
                             }
                         },
                         "p_3": {
-                            "text": "Det er Telemarksforskning som har evaluert programmet. Les rapporten <a href='http://www.miljodirektoratet.no/no/Nyheter/Nyheter/2015/Januar-2015/Naturopplevelser-gir-verdiskaping/'>her</a>.",
+                            "text": "Det er Telemarksforskning som har evaluert programmet. Les rapporten  <a href='http://www.miljodirektoratet.no/no/Nyheter/Nyheter/2015/Januar-2015/Naturopplevelser-gir-verdiskaping/'>her</a>.",
                             "pdf_files": {}
                         }
                     }

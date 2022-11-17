@@ -46,7 +46,7 @@
                             "pdf_files": {}
                         },
                         "p_2": {
-                            "text": "Men: Nå ser det ut til at både Statnett og NVE nesten har glemt friluftslivsinteressene i Østmarka og planene for Grønmo friluftspark! Da ØV i februar hadde et eget møte med Statnett og Elvia, virket det som om de store friluftslivsinteressene og friluftsparken kom som en overraskelse på Statnett. Og på det digitale høringsmøtet 18. februar la heller ingen av etatene særlig vekt på friluftslivet i sine innlegg! Ja, dere leser riktig, og kan selv gå inn og se på <a href='https://teams.microsoft.com/l/meetup-join/19%3ameeting_OTA0NTgyNzQtMDdjMC00NzgxLTgyYzItODY4MjlmNWI1YzY0%40thread.v2/0?context=%7b%22Tid%22%3a%22bc8d840d-60c9-410b-b4fb-11b86806780c%22%2c%22Oid%22%3a%2262746283-a387-4722-b675-25b62f680a03%22%2c%22IsBroadcastMeeting%22%3atrue%7d'>opptaket fra møtet</a> – det ligger inne i Microsoft Teams.",
+                            "text": "Men: Nå ser det ut til at både Statnett og NVE nesten har glemt friluftslivsinteressene i Østmarka og planene for Grønmo friluftspark! Da ØV i februar hadde et eget møte med Statnett og Elvia, virket det som om de store friluftslivsinteressene og friluftsparken kom som en overraskelse på Statnett. Og på det digitale høringsmøtet 18. februar la heller ingen av etatene særlig vekt på friluftslivet i sine innlegg! Ja, dere leser riktig, og kan selv gå inn og se på  <a href='https://teams.microsoft.com/l/meetup-join/19%3ameeting_OTA0NTgyNzQtMDdjMC00NzgxLTgyYzItODY4MjlmNWI1YzY0%40thread.v2/0?context=%7b%22Tid%22%3a%22bc8d840d-60c9-410b-b4fb-11b86806780c%22%2c%22Oid%22%3a%2262746283-a387-4722-b675-25b62f680a03%22%2c%22IsBroadcastMeeting%22%3atrue%7d'>opptaket fra møtet</a> – det ligger inne i Microsoft Teams.",
                             "pdf_files": {}
                         },
                         "p_3": {
@@ -126,7 +126,7 @@
                     "header": "Mer informasjon:",
                     "paragraphs": {
                         "p_1": {
-                            "text": "Østmarkas Venner:<a href='https://ostmarkasvenner.custompublish.com/-gi-gronmo-tilbake-til-folket.5897034-256978.html' class='text-red-700'>Gi Grønmo tilbake til folket!</a>Publisert 10. august 2016.",
+                            "text": "Østmarkas Venner: <a href='https://ostmarkasvenner.custompublish.com/-gi-gronmo-tilbake-til-folket.5897034-256978.html' class='text-red-700'>Gi Grønmo tilbake til folket!</a>Publisert 10. august 2016.",
                             "pdf_files": {}
                         },
                         "p_2": {
@@ -134,7 +134,8 @@
                             "pdf_files": {
                                 "pdf_1": {
                                     "text": "her",
-                                    "pdf_path": "70_section6_paragraph2_anchor1.pdf"
+                                    "local_pdf_path": "70_section6_paragraph2_anchor1.pdf",
+                                    "pdf_path": "https://www.ostmarkasvenner.no/getfile.php/4832156.2128.uspzuzqlimuw7z/210321_%C3%98V+m+fl-Li%C3%A5sen+trafo+og+ledningsnett+h%C3%B8ringssvar+med+vedlegg.pdf"
                                 }
                             }
                         }

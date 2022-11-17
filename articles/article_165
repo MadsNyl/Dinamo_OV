@@ -78,7 +78,7 @@
                             "pdf_files": {}
                         },
                         "p_4": {
-                            "text": "Nybakk nevnte spesielt at vi for ikke lenge siden passerte 20 års-dagen for <a href='https://no.wikipedia.org/wiki/Srebrenica-massakren'>Srebrenica-massakren</a> i juli 1995, da bosnisk-serbiske militærstyrker myrdet ca. 7000 bosnisk-muslimske gutter og menn mens en gruppe FN-soldater lot være å gripe inn fordi de manglet et mandat.",
+                            "text": "Nybakk nevnte spesielt at vi for ikke lenge siden passerte 20 års-dagen for  <a href='https://no.wikipedia.org/wiki/Srebrenica-massakren'>Srebrenica-massakren</a> i juli 1995, da bosnisk-serbiske militærstyrker myrdet ca. 7000 bosnisk-muslimske gutter og menn mens en gruppe FN-soldater lot være å gripe inn fordi de manglet et mandat.",
                             "pdf_files": {}
                         },
                         "p_5": {
@@ -102,7 +102,7 @@
                             "pdf_files": {}
                         },
                         "p_3": {
-                            "text": "Faren, <a href='https://no.wikipedia.org/wiki/Anders_Ekanger'>Anders Ekanger</a>, var nemlig motstandsmann og ble arrestert på Bryn stasjon 5. august 1944, mistenkt for å stå bak utdeling av illegale aviser. Den 41-årige lagerarbeideren ble banket opp allerede på stasjonen, og senere torturert i Statspolitiets hovedkvarter i Kronprinsens gate 10. Han klarte på mirakuløst vis å flykte under en transport med bil til Lørenskog, og senere kom han seg i sikkerhet over til Sverige.",
+                            "text": "Faren,  <a href='https://no.wikipedia.org/wiki/Anders_Ekanger'>Anders Ekanger</a>, var nemlig motstandsmann og ble arrestert på Bryn stasjon 5. august 1944, mistenkt for å stå bak utdeling av illegale aviser. Den 41-årige lagerarbeideren ble banket opp allerede på stasjonen, og senere torturert i Statspolitiets hovedkvarter i Kronprinsens gate 10. Han klarte på mirakuløst vis å flykte under en transport med bil til Lørenskog, og senere kom han seg i sikkerhet over til Sverige.",
                             "pdf_files": {}
                         },
                         "p_4": {
@@ -130,11 +130,11 @@
                     "header": "Omtale av tidligere arrangementer:",
                     "paragraphs": {
                         "p_1": {
-                            "text": "<a href='https://www.ostmarkasvenner.no/-vi-har-en-aeresgjeld-aa-betale'>– Vi har en æresgjeld å betale</a>",
+                            "text": " <a href='https://www.ostmarkasvenner.no/-vi-har-en-aeresgjeld-aa-betale'>– Vi har en æresgjeld å betale</a>",
                             "pdf_files": {}
                         },
                         "p_2": {
-                            "text": "<a href='https://www.ostmarkasvenner.no/til-minne-om-norges-storste-folkebevegelse'>Til minne om Norges største folkebevegelse</a>",
+                            "text": " <a href='https://www.ostmarkasvenner.no/til-minne-om-norges-storste-folkebevegelse'>Til minne om Norges største folkebevegelse</a>",
                             "pdf_files": {}
                         }
                     },
@@ -143,6 +143,6 @@
             },
             "attachments": {}
         },
-        "new_slug": "-vi-maa-aldri-slutte-aa-fortelle"
+        "new_slug": "vi-maa-aldri-slutte-aa-fortelle"
     }
 }

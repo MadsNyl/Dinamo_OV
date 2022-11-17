@@ -46,7 +46,7 @@
                             "pdf_files": {}
                         },
                         "p_8": {
-                            "text": "\r\nDetaljert informasjon om nasjonalparkforslaget, med kart, finnes<a href='https://www.ostmarkasvenner.no/nasjonalpark-i-ost'>her</a>.",
+                            "text": "\r\nDetaljert informasjon om nasjonalparkforslaget, med kart, finnes <a href='https://www.ostmarkasvenner.no/nasjonalpark-i-ost'>her</a>.",
                             "pdf_files": {}
                         }
                     }

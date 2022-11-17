@@ -42,7 +42,7 @@
                             "pdf_files": {}
                         },
                         "p_6": {
-                            "text": "Minnestunden på Sarabråten avholdes tirsdag 10. juni 2014 kl. 19.00. Mer informasjon finner du <a href='http://www.ostmarkasvenner.no/minnestund-paa-sarabraaten'>her</a>.",
+                            "text": "Minnestunden på Sarabråten avholdes tirsdag 10. juni 2014 kl. 19.00. Mer informasjon finner du  <a href='http://www.ostmarkasvenner.no/minnestund-paa-sarabraaten'>her</a>.",
                             "pdf_files": {}
                         },
                         "p_7": {
@@ -50,7 +50,7 @@
                             "pdf_files": {}
                         },
                         "p_8": {
-                            "text": "Kai Ekanger, Østmarkas Venner.\r\nTlf.: 22 26 35 30 / 90 54 11 66. Epost: <a href='mailto:Ka-ekang@online.no' class='text-red-700'>Ka-ekang@online.no</a>",
+                            "text": "Kai Ekanger, Østmarkas Venner.\r\nTlf.: 22 26 35 30 / 90 54 11 66. Epost:  <a href='mailto:Ka-ekang@online.no' class='text-red-700'>Ka-ekang@online.no</a>",
                             "pdf_files": {}
                         }
                     }

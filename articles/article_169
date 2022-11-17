@@ -110,7 +110,7 @@
                     "header": null,
                     "paragraphs": {
                         "p_1": {
-                            "text": "Se flere blider fra utstillingen <a href='https://www.ostmarkasvenner.no/galleri-fra-utstillingen-i-boler-'>her</a>.",
+                            "text": "Se flere blider fra utstillingen  <a href='https://www.ostmarkasvenner.no/galleri-fra-utstillingen-i-boler-'>her</a>.",
                             "pdf_files": {}
                         }
                     },
@@ -119,6 +119,6 @@
             },
             "attachments": {}
         },
-        "new_slug": "-vi-tar-ostmarka-for-gitt-men-den-er-gudegitt"
+        "new_slug": "vi-tar-ostmarka-for-gitt-men-den-er-gudegitt"
     }
 }

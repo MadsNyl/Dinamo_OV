@@ -30,12 +30,13 @@
                             "pdf_files": {
                                 "pdf_1": {
                                     "text": "\"Nytt fra Østmarka\" nr. 2 - 2012",
-                                    "pdf_path": "228_section1_extra_anchor1.pdf"
+                                    "local_pdf_path": "228_section1_extra_anchor1.pdf",
+                                    "pdf_path": "https://www.ostmarkasvenner.no/getfile.php/2743183.2128.weaytqwwre/Sol%C3%A5sen+og+s%C3%B8strene+Holm.pdf"
                                 }
                             }
                         },
                         "p_3": {
-                            "text": "Opptaket ble gjort på Solåsen,sør på Skullerudåsen. Du kan høre opptaket <a href='/getfile.php/2796378.2128.bsrpvrrvxp/S%C3%B8strene+Sol%C3%A5s.mp3' class='text-red-700'>her</a>.",
+                            "text": "Opptaket ble gjort på Solåsen,sør på Skullerudåsen. Du kan høre opptaket  <a href='/getfile.php/2796378.2128.bsrpvrrvxp/S%C3%B8strene+Sol%C3%A5s.mp3' class='text-red-700'>her</a>.",
                             "pdf_files": {}
                         }
                     }

@@ -70,7 +70,7 @@
                             "pdf_files": {}
                         },
                         "p_3": {
-                            "text": "– Jeg er så fornøyd med at statsråd Espen Barth Eide har holdt det han lovet <a href='https://www.ostmarkasvenner.no/-nasjonalpark-i-ostmarka-er-en-viktig-sak-for-arbeiderpartiet'>på turen vår i Østmarka for 10 måneder siden</a>. Han har gitt klare føringer for det videre arbeidet og satt opp en tidsplan for prosessen videre. Høsten 2023 kan vi forhåpentligvis skåle for Østmarka nasjonalpark sammen med Sverre M. Fjelstad, Ola Elvestuen, Marianne Borgen og mange, mange flere medspillere, tilføyer Gunnarsdóttir – og lanserer et fremdriftsforslag:",
+                            "text": "– Jeg er så fornøyd med at statsråd Espen Barth Eide har holdt det han lovet  <a href='https://www.ostmarkasvenner.no/-nasjonalpark-i-ostmarka-er-en-viktig-sak-for-arbeiderpartiet'>på turen vår i Østmarka for 10 måneder siden</a>. Han har gitt klare føringer for det videre arbeidet og satt opp en tidsplan for prosessen videre. Høsten 2023 kan vi forhåpentligvis skåle for Østmarka nasjonalpark sammen med Sverre M. Fjelstad, Ola Elvestuen, Marianne Borgen og mange, mange flere medspillere, tilføyer Gunnarsdóttir – og lanserer et fremdriftsforslag:",
                             "pdf_files": {}
                         },
                         "p_4": {
@@ -240,7 +240,7 @@
                     "header": "Mer informasjon:",
                     "paragraphs": {
                         "p_1": {
-                            "text": "Klima- og miljødepartementets pressemelding: <a href='https://www.regjeringen.no/no/aktuelt/foreslar-a-verne-deler-av-ostmarka-som-nasjonalpark/id2920363/'>Foreslår å verne deler av Østmarka som nasjonalpark</a>",
+                            "text": "Klima- og miljødepartementets pressemelding:  <a href='https://www.regjeringen.no/no/aktuelt/foreslar-a-verne-deler-av-ostmarka-som-nasjonalpark/id2920363/'>Foreslår å verne deler av Østmarka som nasjonalpark</a>",
                             "pdf_files": {}
                         },
                         "p_2": {
@@ -248,20 +248,21 @@
                             "pdf_files": {
                                 "pdf_1": {
                                     "text": "Klima -og miljødepartementets oppdrag om høring av Østmarka nasjonalpark",
-                                    "pdf_path": "15_section11_paragraph2_anchor1.pdf"
+                                    "local_pdf_path": "15_section11_paragraph2_anchor1.pdf",
+                                    "pdf_path": "https://www.ostmarkasvenner.nohttps://www.regjeringen.no/contentassets/086494026b504e72bc7d45ef245abf8e/supplerende-tildelingsbrev-godkjenning-av-horingsforslag-om-vern-av-ostmarka-nasjonalpark-1045049.pdf"
                                 }
                             }
                         },
                         "p_3": {
-                            "text": "<a href='https://www.statsforvalteren.no/nb/oslo-og-viken/miljo-og-klima/nyttvern/nasjonalpark-i-ostmarka2/'>Statsforvalteren i Oslo og Viken sine temasider om verneprosessen</a>",
+                            "text": " <a href='https://www.statsforvalteren.no/nb/oslo-og-viken/miljo-og-klima/nyttvern/nasjonalpark-i-ostmarka2/'>Statsforvalteren i Oslo og Viken sine temasider om verneprosessen</a>",
                             "pdf_files": {}
                         },
                         "p_4": {
-                            "text": "<a href='https://www.ostmarkasvenner.no/statsforvalteren-anbefaler-tredelt-nasjonalpark-i-ostmarka'>Statsforvalteren anbefaler tredelt nasjonalpark i Østmarka</a>",
+                            "text": " <a href='https://www.ostmarkasvenner.no/statsforvalteren-anbefaler-tredelt-nasjonalpark-i-ostmarka'>Statsforvalteren anbefaler tredelt nasjonalpark i Østmarka</a>",
                             "pdf_files": {}
                         },
                         "p_5": {
-                            "text": "<a href='https://www.ostmarkasvenner.no/ostmarka-maa-bli-nasjonalpark-og-vernes-for-friluftslivet'>Østmarka må bli nasjonalpark, og vernes for friluftslivet</a>",
+                            "text": " <a href='https://www.ostmarkasvenner.no/ostmarka-maa-bli-nasjonalpark-og-vernes-for-friluftslivet'>Østmarka må bli nasjonalpark, og vernes for friluftslivet</a>",
                             "pdf_files": {}
                         }
                     },

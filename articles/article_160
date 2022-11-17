@@ -96,11 +96,11 @@
                     "header": "Les mer om saken hos:",
                     "paragraphs": {
                         "p_1": {
-                            "text": "Mattilsynet:<a href='http://www.mattilsynet.no/fisk_og_akvakultur/fiskehelse/fiske_og_skjellsykdommer/krepsepest/paavist_krepsepestsmitte_i_mossevassdraget__forbud_mot_krepsing_vil_bli_innfort.23456' class='text-red-700'>http://www.mattilsynet.no</a>",
+                            "text": "Mattilsynet: <a href='http://www.mattilsynet.no/fisk_og_akvakultur/fiskehelse/fiske_og_skjellsykdommer/krepsepest/paavist_krepsepestsmitte_i_mossevassdraget__forbud_mot_krepsing_vil_bli_innfort.23456' class='text-red-700'>http://www.mattilsynet.no</a>",
                             "pdf_files": {}
                         },
                         "p_2": {
-                            "text": "Veterinærinstituttet:<a href='http://www.vetinst.no/nyheter/krepsepestsmitte-pavist-i-vannprover-fra-tangenelva-ytre-enebakk'>http://www.vetinst.no/</a>",
+                            "text": "Veterinærinstituttet: <a href='http://www.vetinst.no/nyheter/krepsepestsmitte-pavist-i-vannprover-fra-tangenelva-ytre-enebakk'>http://www.vetinst.no/</a>",
                             "pdf_files": {}
                         },
                         "p_3": {
@@ -108,7 +108,8 @@
                             "pdf_files": {
                                 "pdf_1": {
                                     "text": "KREPS OG KREPSING",
-                                    "pdf_path": "160_section4_paragraph3_anchor1.pdf"
+                                    "local_pdf_path": "160_section4_paragraph3_anchor1.pdf",
+                                    "pdf_path": "https://www.ostmarkasvenner.no/getfile.php/3583933.2128.tuwvrpawtv/Kreps+og+krepsing.pdf"
                                 }
                             }
                         }

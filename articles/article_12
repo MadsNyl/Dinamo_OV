@@ -94,7 +94,7 @@
                             "pdf_files": {}
                         },
                         "p_2": {
-                            "text": "<a href='/getfile.php/5045241.2128.lktkwwiiaiqau7/Kart_01.PNG' class='text-red-700'>Se kartet i større oppløsning her</a>",
+                            "text": " <a href='/getfile.php/5045241.2128.lktkwwiiaiqau7/Kart_01.PNG' class='text-red-700'>Se kartet i større oppløsning her</a>",
                             "pdf_files": {}
                         }
                     },
@@ -162,7 +162,7 @@
                             "pdf_files": {}
                         },
                         "p_3": {
-                            "text": "<a href='https://www.ostmarkasvenner.no/plan-for-stor-skogsbilvei-i-ostmarka-sendes-paa-horing-i-fellesferien'>Saken ble første gang omtalt på Østmarkas Venners nettside 4. juli.</a>",
+                            "text": " <a href='https://www.ostmarkasvenner.no/plan-for-stor-skogsbilvei-i-ostmarka-sendes-paa-horing-i-fellesferien'>Saken ble første gang omtalt på Østmarkas Venners nettside 4. juli.</a>",
                             "pdf_files": {}
                         }
                     },
@@ -171,6 +171,6 @@
             },
             "attachments": {}
         },
-        "new_slug": "-verneverdiene-rundt-losbys-skogsbilvei-maa-kartlegges-ordentlig"
+        "new_slug": "verneverdiene-rundt-losbys-skogsbilvei-maa-kartlegges-ordentlig"
     }
 }

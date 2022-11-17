@@ -203,7 +203,8 @@
                             "pdf_files": {
                                 "pdf_1": {
                                     "text": "Byrådssak 211/18: Mål og retningslinjer for forvaltning og drift av Oslo kommunes skoger 2018-2027.",
-                                    "pdf_path": "113_section9_paragraph1_anchor1.pdf"
+                                    "local_pdf_path": "113_section9_paragraph1_anchor1.pdf",
+                                    "pdf_path": "https://www.ostmarkasvenner.nohttps://tjenester.oslo.kommune.no/ekstern/einnsyn-fillager/filtjeneste/fil?virksomhet=976819837&filnavn=byr%2F2018%2Fbr1%2F2017023387-1960790.pdf"
                                 }
                             }
                         }

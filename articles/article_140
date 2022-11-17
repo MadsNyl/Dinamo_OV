@@ -82,7 +82,7 @@
                             "pdf_files": {}
                         },
                         "p_3": {
-                            "text": "Hele anmeldelsen kan leses i tidsskriftet eller på <a href='https://www.idunn.no/natur/2017/03/ostmarka_hvaforno' class='text-red-700'>Naturens nettsider (betalingsmur)</a>.",
+                            "text": "Hele anmeldelsen kan leses i tidsskriftet eller på  <a href='https://www.idunn.no/natur/2017/03/ostmarka_hvaforno' class='text-red-700'>Naturens nettsider (betalingsmur)</a>.",
                             "pdf_files": {}
                         }
                     },
@@ -94,11 +94,11 @@
                     "header": "Ønsker du å kjøpe jubileumsboka?",
                     "paragraphs": {
                         "p_1": {
-                            "text": "Jubileumsboka kan kjøpes på utvalgte salgssteder som du finner <a href='https://www.ostmarkasvenner.no/hyllest-til-ostmarka-salgssteder'>her</a>.",
+                            "text": "Jubileumsboka kan kjøpes på utvalgte salgssteder som du finner  <a href='https://www.ostmarkasvenner.no/hyllest-til-ostmarka-salgssteder'>her</a>.",
                             "pdf_files": {}
                         },
                         "p_2": {
-                            "text": "Boka kan også bestilles ved å fylle ut bestillingsskjemaet på<a href='https://www.ostmarkasvenner.no/jubileu'>Østmarkas Venners nettside</a>.",
+                            "text": "Boka kan også bestilles ved å fylle ut bestillingsskjemaet på <a href='https://www.ostmarkasvenner.no/jubileu'>Østmarkas Venners nettside</a>.",
                             "pdf_files": {}
                         },
                         "p_3": {

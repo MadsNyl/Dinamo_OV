@@ -22,7 +22,7 @@
                             "pdf_files": {}
                         },
                         "p_2": {
-                            "text": "<a href='http://www.dntoslo.no/article.php?ar_id=28505&fo_id=21' class='text-red-700'>Les mer her...</a>",
+                            "text": " <a href='http://www.dntoslo.no/article.php?ar_id=28505&fo_id=21' class='text-red-700'>Les mer her...</a>",
                             "pdf_files": {}
                         }
                     }

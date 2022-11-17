@@ -22,7 +22,7 @@
                     "header": null,
                     "paragraphs": {
                         "p_1": {
-                            "text": "Østmarkas Venner er mye i media om dagen i forbindelse Nasjonalparkforslaget. Her er et stort førstesideoppslag i<a href='http://www.oblad.no/nyheter/jeg-tror-de-ser-spokelser-pa-hoylys-dag-1.7757123'>Østlandets Blad</a>.",
+                            "text": "Østmarkas Venner er mye i media om dagen i forbindelse Nasjonalparkforslaget. Her er et stort førstesideoppslag i <a href='http://www.oblad.no/nyheter/jeg-tror-de-ser-spokelser-pa-hoylys-dag-1.7757123'>Østlandets Blad</a>.",
                             "pdf_files": {}
                         }
                     }
@@ -30,6 +30,6 @@
             },
             "attachments": {}
         },
-        "new_slug": "-jeg-tror-de-ser-spokelser-paa-hoylys-dag"
+        "new_slug": "jeg-tror-de-ser-spokelser-paa-hoylys-dag"
     }
 }

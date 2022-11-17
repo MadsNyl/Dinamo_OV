@@ -25,7 +25,7 @@
             },
             "attachments": {
                 "attachment_1": {
-                    "text": "<a href='http://www.dagsavisen.no/innenriks/article382749.ece' class='text-red-700'>Artikkel i Dagsavisen</a>",
+                    "text": " <a href='http://www.dagsavisen.no/innenriks/article382749.ece' class='text-red-700'>Artikkel i Dagsavisen</a>",
                     "pdf": {}
                 }
             }

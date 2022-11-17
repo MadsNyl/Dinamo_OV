@@ -154,19 +154,19 @@
                     "header": "Les mer:",
                     "paragraphs": {
                         "p_1": {
-                            "text": "<a href='http://www.ostmarkasvenner.no/bymiljoetaten-kritiseres-for-ulovlige-tiltak-i-ostmarka'>Bymiljøetaten kritiseres for ulovlige tiltak i Østmarka</a>",
+                            "text": " <a href='http://www.ostmarkasvenner.no/bymiljoetaten-kritiseres-for-ulovlige-tiltak-i-ostmarka'>Bymiljøetaten kritiseres for ulovlige tiltak i Østmarka</a>",
                             "pdf_files": {}
                         },
                         "p_2": {
-                            "text": "<a href='http://www.ostmarkasvenner.no/skarp-kritikk-av-grusvei-planene-gjennom-dolerud'>Skarp kritikk av grusvei-planene gjennom Dølerud</a>",
+                            "text": " <a href='http://www.ostmarkasvenner.no/skarp-kritikk-av-grusvei-planene-gjennom-dolerud'>Skarp kritikk av grusvei-planene gjennom Dølerud</a>",
                             "pdf_files": {}
                         },
                         "p_3": {
-                            "text": "<a href='http://www.ostmarkasvenner.no/bystyret-vil-fjerne-aktivitetssonene'>Bystyret vil fjerne aktivitetssonene</a>",
+                            "text": " <a href='http://www.ostmarkasvenner.no/bystyret-vil-fjerne-aktivitetssonene'>Bystyret vil fjerne aktivitetssonene</a>",
                             "pdf_files": {}
                         },
                         "p_4": {
-                            "text": "<a href='http://www.ostmarkasvenner.no/over-5000-protester-mot-aktivitetssonene'>Over 5000 protester mot aktivitetssonene</a>",
+                            "text": " <a href='http://www.ostmarkasvenner.no/over-5000-protester-mot-aktivitetssonene'>Over 5000 protester mot aktivitetssonene</a>",
                             "pdf_files": {}
                         }
                     },
@@ -175,6 +175,6 @@
             },
             "attachments": {}
         },
-        "new_slug": "-aktivitetssonene-skal-ut-av-kommuneplanen"
+        "new_slug": "aktivitetssonene-skal-ut-av-kommuneplanen"
     }
 }
